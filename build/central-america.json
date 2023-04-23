@@ -1,0 +1,67 @@
+{
+    "_id": {
+        "$oid": "62012cd5aeb27625016ff51b"
+    },
+    "region": "central-america",
+    "image1": "http://virtualtravel.tv/ZImages/Central-America1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/Central-America2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/Central-America3.jpg",
+    "countries": [
+        {
+            "country": "BELIZE",
+            "image1": "http://virtualtravel.tv/ZImages/Belize1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Belize2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Belize3.jpg",
+            "description": "Tourism is one crucial component of Belize because the government uses it to overcome poverty in the country. To this end, there are various tourist and eco-tourist attractions that Belize has to offer.One primary attraction site of the country is the Belize Barrier Reef, known to be the largest reef in the Western Hemisphere and the second-largest in the world. The area features some of the most exotic wildlife you will ever come across, and this, including the vibrant coral, makes the place a highly favored spot among visitors. Its pristine environment is one of the reasons the site was named a UNESCO World Heritage Site in 1996. Seven marine protected areas exist within the reef,and each region has its peculiar wonders of nature to offer.Belize has a well-preserved natural beauty, and the country pays so much attention to eco-tourism, so visitors will experience energy-efficient hotels, eco-tourism tours, and renewable resources. Some of the eco-tourism centers are Swallow Caye Wildlife Sanctuary and the Cockscomb Basin Wildlife Sanctuary.Waterfalls, cayes, and national parks are scattered across the country, and tourists are sure never to have a dull moment."
+        },
+        {
+            "country": "COSTA RICA",
+            "image1": "http://virtualtravel.tv/ZImages/Costa-Rica1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Costa-Rica2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Costa-Rica3.jpg",
+            "description": "Costa Rica, with its well-protected areas and national parks, is a world pioneer in eco-tourism. The country is home to a wide variety of plant and animal life and plenty of beaches and volcanoes that can be visited. Some of the sites that tourists should visit in Costa Rica are:· Las Baulas National Marine Park, Guanacaste · Arenal Volcano, San Carlos, Alajuela · Manuel Antonio National Park, Quepos Puntarenas · Poás Volcano Center · Pacuare River · Cocos Island (UNESCO World Heritage Site) · Area de Conservación Guanacaste (UNESCO World Heritage Site) Besides the natural wonders that Costa Rica has to offer, some of the nation's cities are also a sight to behold. San Jose, for example, boasts of several museums and cafes. The Costa Rican meals are pretty healthy, containing fewer dairy and high-fat dishes. Their local cuisine comprises fresh fruits and vegetables, and pork, beef, and chicken are their popular meats. Some specialties that tourists should look out for are: · Casado – soup of carrots, plantain, beef, potatoes, and chayote · Sopa Negra: black bean soup · Gallo pinto – rice and black beans, with sour cream· Ceviche – raw fish marinated in lemon juice, onion, coriander, and chili · Beverages – coffee, Horchata (a drink made of ground rice flavored with cloves and cinnamon), Frescos (fruit drink made with water and sugar), Pipas Fria (fresh coconut water)."
+        },
+        {
+            "country": "EL SALVADOR",
+            "image1": "http://virtualtravel.tv/ZImages/america3.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Wild-pigs-on-Big-Majors-Island-in-The-Bahamas-lounging-and-walking-around-in-the-sand-and-ocean.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Wild-pigs-on-Big-Majors-Island-in-The-Bahamas-lounging-and-walking-around-in-the-sand-and-ocean.jpg",
+            "description": "Although El Salvador is the smallest country in Central America, it holds some of the world's natural wonders. The tiny tropical island has some jaw-dropping landscapes, cloud forests, smoking volcanoes, and clear lagoons.Tourists are known to enjoy the country's pristine ecological reserve, El Imposible, where over 500 species of birds reside.Then there are the volcanic crater lakes of Coatepeque and Ilopango, where you can take a dip or do some sailing, fishing, and kayaking.The Barra de Santiago beach also serves as a nature reserve for bird and butterfly species. Other places of interest are: · Guazapa volcano · Lempa, Paz and Guajoyo rivers · San Andres, Joya de Cerén and Tazumul, etc. If you are one for festivities, the best time to visit would be 13-14 September for Fiesta de Santa Cruz de Roma, or 3 May for Las Palmas harvest procession, both of which are Panchimalco's festivities. Salvadorans are lovers of fresh fruits, so tourists are sure to get their fair share of bananas, mango, and pineapple while visiting. Besides fruits, some exceptional El Salvadore cuisine includes: · Pupusa – fried tortilla, filled with cheese or vegetables · Casamiento – rice and black beans · Gallo en chicha – soup made from rooster, corns, and cane sugar · Beverages – Refrescos (Natural fruit drinks), Tic tac and Torito (a strong alcoholic drink made from sugar cane), and Kolachampan (sugarcane flavored soft drink)."
+        },
+        {
+            "country": "GUATEMALA",
+            "image1": "http://virtualtravel.tv/ZImages/Guatemala1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Guatemala2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Guatemala3.jpg",
+            "description": "Guatemala is the home of antiquity, with historical sites scattered across its regions. The country is known to house civilizations thought to be extinct, colonial towns, and Mayan ruins that tell tales of history. Tilkal, a UNESCO World Heritage Site, is at the heart of all that Guatemala offers. The country also has some charming cities, and one worthy of note is Antigua, a small colonial town surrounded by volcanoes. That's not all; the country has some of the thickest jungles around, and with its black sandy beaches, large lakes, natural hot springs, roaring rivers, and smoldering volcanoes. Some target sites for tourists are: · Mayan pyramids · Quetzaltenango · Monterrico · Lake Atitlán · Semuc Champey National Park Guatemala's cuisine is majorly made up of black beans, corn tortillas, and white rice, usually served with meat and fish."
+        },
+        {
+            "country": "HONDURAS",
+            "image1": "http://virtualtravel.tv/ZImages/Honduras1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Honduras2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Honduras3.jpg",
+            "description": "Honduras is a site for some eye-catching reefs and rainforests. Perhaps the country's best feature is the Bay Islands, where tourists and citizens alike can take a dive or swim with dolphins. Besides the island, the mainland is also a spectacle—Trujillo, a town full of pirate history, and Garifuna villages, with their Afro-Caribbean culture. In the Pico Bonito National Park, you will find monkeys, jaguars, and different bird species. Rio Plátano Biosphere Reserve is a UNESCO World Heritage Site that is filled with exotic wildlife. Easter is one of the best periods to visit Honduras because Comayagua, the first capital of Honduras, holds its unique celebration called the Semana Santa. While the country isn't widely known for any special delicacies, Honduras still has some delicious treats that visitors and foreigners should try out. Most of their meals are made up of rice, beans, plantains, and tortillas. Pork is the most common type of meat, including chicken and beef."
+        },
+        {
+            "country": "MEXICO",
+            "image1": "http://virtualtravel.tv/ZImages/Mexico1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Mexico2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Mexico3.jpg",
+            "description": "Mexico is at the heart of tourism, with its bustling cities, grand landscapes, deserts, snowy peaks, and beaches. Some of the precious treasures of this country are: San Miguel de Allende and Dolores Hidalgo. The country is a lot to take in, with its world-renowned museums, exquisite restaurants, and colorful markets. Mexico is known for its special Day of the Dead Ceremony, which brings together all kinds of faith and belief. Some attraction sites are: · Baja California · Yucatán Peninsula · Guadalajara · The canals of Xochimilco · Cozumel Island · Ruins of Tulum · Hidalgo Mexican cuisine is one of the most special delicacies in the world. Although its dishes are a rich mix, the main ingredient is corn, cooked in different ways. Some examples of these corn delicacies are Hot tortillas, tacos, burritos, and corn-based snacks."
+        },
+        {
+            "country": "NICARAGUA",
+            "image1": "http://virtualtravel.tv/ZImages/Nicaragua1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Nicaragua2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Nicaragua3.jpg",
+            "description": "Nicaragua doesn't boast of outstanding cultural attractions,but it makes up for its natural beauty. It has some of the most beautiful colonial cities, wildlife-rich rainforests, and deserted beaches. Nicaragua is the largest country in Central America and is one of the cheapest and safest countries. Its large wild landscape makes the country a target for hikers, bikers, swimmers, and kayakers. The twin peaks of Ometepe Island, the Indío Maiz Biological Reserve, and the lake Nicaragua are all there for nature lovers. For those who will instead stay in the city, Léon or Granada is all you need. Léon features the Maribios volcanic chain while Granada holds the Masaya's volcanic park. Surfers can also enjoy the waves at San Juan del Sur. Nicaraguan cuisine is basically a combination of rice and beans, but some other typical dishes are grilled beef and chicken, fried green plantain chips (patacones), and freshwater fish."
+        },
+        {
+            "country": "PANAMA",
+            "image1": "http://virtualtravel.tv/ZImages/Panama1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Panama2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Panama3.jpg",
+            "description": "With its indigenous communities, beaches and promenades,volcanoes, and the impenetrable Darien Gap, Panama has all of nature to offer. The canal is one major prospect of Panama. The area contains volcanoes and forest canopies. The Coiba National Marine Park is one that tourists shouldn't miss. It showcases some of the most elegant wildlife, and there, you can get a glimpse of the harpy eagle, Panama's national bird. Panama City itself is not left out in all the wonders that Panama has to offer. The city contains colonial buildings and tall towers, giving you a blend of the past and the present. As a matter of fact, Panama City is a UNESCO World Heritage Site because of its ties with history. Tourists should also visit these places while on tour: · Las Tablas, home of different fiestas and carnivals · Barro Colorado · Bochas del Toro archipegalo · El Níspero Botanical Gardens · The ruins of Panama Viejo · The San Blas Islands Rice is a standard meal in Panama, and along the Caribbean coast is an abundance of seafood. A major delicacy gotten from seafood is Ceviche, seafood marinated in lime juice, peppers, and onions."
+        }
+    ]
+}

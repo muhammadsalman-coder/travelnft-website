@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "62012e2daeb276250171f35a"
+    },
+    "region": "south-asia",
+    "image1": "http://virtualtravel.tv/ZImages/South-Asia1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/South-Asia2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/South-Asia3.jpg",
+    "countries": [
+        {
+            "country": "Afghanistan",
+            "image1": "http://virtualtravel.tv/ZImages/afganistan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/afganistan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/afganista3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/Afghanistan4.jpg",
+            "description": "Unfortunately, Afghanistan is a fairly volatile place to visit for outsiders.Although there is rich history and culture when the politics are put to the side,this is a country that is brushed over when talking about tourism.If you look back a few decades, the tourist scene in Afghanistan was nonexistent. After the wars of the 90s and early 2000s, the Afghan government made it a priority to make visiting opportunities available. Now, there are about 20,000 tourist visas given to outsiders every year.One of the most-visited spots in the country is the Band-e Amir National Park.There are plenty of hotels in the area, and this location gives you a good perspective of Afghanistan’s natural beauty.If you want to experience more of the culture, Kabul is the place to be. This city has all of the hotspots to get to understand what the country is really like. If you venture out too far from here, you can get into some really dangerous areas.Plus, you have to experience some Afghani dumplings while in the city to really get the whole experience."
+        },
+        {
+            "country": "Bangladesh",
+            "image1": "http://virtualtravel.tv/ZImages/bangladesh1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/bangladesh2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/bangladesh3.jpg",
+            "description": "A good amount of Bangladesh's economy is dedicated to the tourism sector.However, this area goes relatively unvisited when comparing the actual numbers to the potential that could be there.A big part of this country’s tourism is on the natural side. With an immense amount of wildlife, there is a lot to take in. There are also a few historic monuments worth checking out. There are three UNESCO World Heritage Sites, so they are absolutely worth your time.One part of the country that you cannot mix is the worlds’ largest river delta.The Ganges and Brahmaputra rivers make up this area, so the natural world totally flourishes in the surrounding spots.Hinduism, Island and Buddhism are all prevalent in the culture of Bangladesh.As you go through the country, you can see the diversity through the food,music and lifestyle of over 45 different ethnic groups. One time to experience it all melting together is during the Shakrain Festival in January. This is a kite festival that features fireworks and tons of great food."
+        },
+        {
+            "country": "Bhutan",
+            "image1": "http://virtualtravel.tv/ZImages/bhutan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/bhutan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/bhutan3.jpg",
+            "description": "One country that really takes ecotourism to heart is Bhutan. The government has taken the “high quality, low volume principle” which means that they are limiting the number of tourists and focusing on quality experiences and guests.Although this is met with some criticism, this is to limit the environmental impact on the gorgeous landscapes of Bhutan.Outfitted with temples built into mountains and plenty of natural beauty, this is a super underrated place to visit. Bhutan is a really small country tucked between India and Tibet, with Nepal and the rest of the Himalayas to the west. This is a quiet and super safe country that is incredibly inviting and fun to explore.There are a total of eight UNESCO World Heritage Sites, so there is so much to discover. One of the most iconic is the Sacred Sites associated with Phajo Drugom Zhigpo and his descendants. It displays gorgeous architecture built into the side of a mountain.After a busy day of exploring Bhutan, go back to a small village restaurant to eat the unofficial national dish Ema Datshi, which is chilies and cheese in a stew."
+        },
+        {
+            "country": "India",
+            "image1": "http://virtualtravel.tv/ZImages/india1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/india2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/india3.jpg",
+            "description": "India is an unequivocally welcoming country, that bestows respect and love for its visitors. A nation which follows only one belief blindly “Atithi Devo Bhava” which means “Guest is equivalent to God”. Land of diverse cultures, deep-rooted beliefs, uncountable religions, that is connected to specific historical tales as well; there is so much to explore. An avid traveller can merely find its abode here; India Tourism offers an excellent rich heritage, delectable cuisines from different parts of the country, a plethora of alluring spots for sightseeing, and many more when exploring this beautiful country."
+        },
+        {
+            "country": "Maldives",
+            "image1": "http://virtualtravel.tv/ZImages/Maldives1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Maldives2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Maldives3.jpg",
+            "description": "A truly unique sight to behold is the Maldives. Outfitted with gorgeous water,natural beauty, and a bit of strong cultural aspects, this has become one of the top high-end tourist destinations in Asia.This is a very small country that has many islands and tons of great water sport opportunities. Male is the capital of the Maldives and is the main destination when visiting. If you want to experience this small, yet unique culture, this is the palace to be.However, most tourists find themselves staying in the super unique water bungalows that provide incredible experiences. There is one UNESCO World Heritage Site called the Coral Stone Mosques of the Maldives, and it is super unique.Along with the beaches, city life can be a sight to behold. The nightlife in the city is super fun, and you need to take advantage of all the fresh seafood that you can stomach as there is plenty of it."
+        },
+        {
+            "country": "Mauritius",
+            "image1": "http://virtualtravel.tv/ZImages/Mauritius1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Mauritius2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Mauritius3.jpg",
+            "description": "Mauritius is an Indian Ocean island nation that has excellent beaches, great scuba diving and so much more. This is a very small country that is technically considered East Africa, but due to its location in the Indian Ocean, it is also close to Asia.Firstly, Mauritius is a super friendly and safe country for outside visitors.Because the tourism scene is not huge, at least compared to other island nations in the area, they love when visitors are there to stimulate their economy.The biggest highlight of the country is the amount and quality of beaches. The gorgeous white sand and enchanting blue waters are why you come to a country like this. There are also two UNESCO World Heritage Sites, the Aapravasi Ghat and Le Morne Cultural Landscape, to explore.Overall, Mauritius is an awesome country that has a lot to explore. From the dense jungle to the white beaches, you can get a grasp of the small, yet mighty culture simply by being there and taking it all in. Plus, the government tries to focus on eco-tourism as this is a hard-hitting topic in this area of the world."
+        },
+        {
+            "country": "Nepal",
+            "image1": "http://virtualtravel.tv/ZImages/Nepal1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Nepal2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Nepal3.jpg",
+            "description": "Known as the launching point to access Mount Everest and much of the Himalayas, Nepal is a really interesting place to visit regardless of the time of year. Also known as a really quiet and clean country, Nepal has a lot of Indian influence in its food and culture.If you are going to start with one spot specifically, Kathmandu is hands-down the place to be. Although Everest is one of the top attractions, there is a lot in this relatively small country. This is also a country that is very proud of its national holidays and festivals. Kushe Aunsi and Indra Jatra are two festivals that bring huge crowds and a lot of fun.There are even four UNESCO World Heritage Sites in Nepal and another 15 on the tentative list. So, there is a ton to uncover in Nepal.If you want to experience the natural beauty of the Himalayas and discover for yourself all that Nepal is about, it will be well worth your time."
+        },
+        {
+            "country": "Pakistan",
+            "image1": "http://virtualtravel.tv/ZImages/Pakistan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Pakistan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Pakistan3.jpg",
+            "description": "Pakistan is a South Asian country that has had a fairly volatile past but has had a small resurgence in the tourism industry. One of the major draws to visiting Pakistan is the Himalayan mountain range that offers trekking, mountaineering,and touring.When it comes to visiting Pakistan, there is a large market for natural features,as we have already hinted at. However, there are a couple of cities worth checking out to get to know the culture. One of those locations is in Islamabad.As the capital, there are a lot of man-made features built into the city.Although there is some turmoil from time to time, there are several great UNESCO World Heritage Sites in Pakistan. The Lahore Fort and Takht-i-Bahi B Buddhist Monastery are a couple of the top visiting options.Overall, Pakistan is a place that not a ton of tourists know about. By diving into the country’s food, cities, and landscapes, you may just unravel a hidden gem."
+        },
+        {
+            "country": "Sri Lanka",
+            "image1": "http://virtualtravel.tv/ZImages/Sri-Lanka1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Sri-Lanka2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Sri-Lanka3.jpg",
+            "description": "Sri Lanka is an island off of India that has tons of coastline and a lot of natural beauty. This is a country that has a little bit of everything. Beaches, mountains,waterfalls, and so much more are packed into this fairly small island nation.The most common tourists are from India, because of the location, but outsiders find Sri Lanka to be an excellent tourist destination because of the similar culture without having the insane population density that comes with some Indian cities.Sri Lanka’s biggest city is Colombo, and this is where you should start your journey. This city will introduce you to the culture and food scene. Once you tackle Colombo, be sure to branch out and experience some of the natural features. There are eight UNESCO World Heritage Sites in Sri Lanka, and six of them are cultural. So, you are in a great position to have an excellent time.With India to the north being a large contributor to the climate crisis, Sri Lanka has been very good about implementing ecotourism aspects. So, you can feel good about your visit and how your impact on the environment is low."
+        }
+    ]
+}

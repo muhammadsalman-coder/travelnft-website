@@ -1,0 +1,24 @@
+{
+    "_id": {
+        "$oid": "62012bbeaeb27625016e58cc"
+    },
+    "region": "antarctica",
+    "image1": "http://virtualtravel.tv/ZImages/Antarctica1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/Antarctica2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/Antarctica3.jpg",
+    "image4": "http://virtualtravel.tv/ZImages/Antarctica4.jpg",
+    "image5": "http://virtualtravel.tv/ZImages/Antarctica5.webp",
+    "image6": "http://virtualtravel.tv/ZImages/Antarctica6.jpg",
+    "countries": [
+        {
+            "country": "ANTARCTICA",
+            "description": "Antarctica is one of the unique places in the world with its wildlife and climate, and although there are no permanent residents in the areas, the land is still one of the best places to visit. The quietness, biting cold, massive mountain ranges,and enormous ice shelves all make up the beauty of the adventure.Concerning wildlife, Antarctica is home to the Emperor Penguins, who spend their entire lives on Antarctica's waters and surrounding areas. They are practically the only animals that spend the winter on the Antarctic ice. Besides the penguins, different species of whales have also made the Antarctic waters their home.One prominent feature of this area is Deception Island, an active volcano. Thanks to this volcano, the surrounding areasare ash-layered glaciers, volcanic slopes, and steaming beaches. Furthermore, there are grand, sheer cliffs that drop right intothe sea. One of such is the Lemaire channel, which has the Booth Island on one side and the Antarctic Peninsula on the other. Then, there are different iceberg breakoffs on which some of the wildlife floats.",
+            "image1": "http://virtualtravel.tv/ZImages/Antarctica1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Antarctica2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Antarctica3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/Antarctica4.jpg",
+            "image5": "http://virtualtravel.tv/ZImages/Antarctica5.webp",
+            "image6": "http://virtualtravel.tv/ZImages/Antarctica6.jpg"
+        }
+    ]
+}

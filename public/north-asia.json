@@ -1,0 +1,18 @@
+{
+    "_id": {
+        "$oid": "62012d74aeb276250170f088"
+    },
+    "region": "north-asia",
+    "image1": "http://virtualtravel.tv/ZImages/North-Asia1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/North-Asia2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/North-Asia3.jpg",
+    "countries": [
+        {
+            "country": "RUSSIA",
+            "image1": "http://virtualtravel.tv/ZImages/Russia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Russia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Russia3.jpg",
+            "description": "Russia has seen a significant transformation since the late Soviet period. Currently, Russia's awe-inspiring cultural heritage and a wide array of places to visit have made it one of the best destinations for tourists. According to sources, the country has 23 UNESCO World Heritage Sites.Saint Petersburg (aka Venice of the North) and Moscow are two of the most important tourist travel destinations. Some of the sites and features that have made these two cities very popular among visitors are:· Museums – Tretyakov Gallery and Hermitage; · Theaters – Mariinsky and Bolshoi;· Churches – Cathedral of Christ the Savior and Church of the Savior on Blood · Fortifications – Peter and Paul Fortress;· Streets – Palace Square and Red Square;· Palaces and elegant Soviet-era buildings;· Routes - Trans-Siberian Railway, the Golden Ring of ancient cities, and cruises on big rivers such as the Volga.Russia is also known for its many national holidays,celebrations, and events. Although some of these holidays are celebrated all around the world, they still have unique festivals and events, and some of them are Russia Day (June 12), Day of Slavic Alphabet and Culture (May 24), Unity Day (November 4). Some significant events are Honey Fair; a yearly honey festival celebrated in Kolomenskoye, Moscow.And International Tchaikovsky Competition, a yearly competition in Moscow, and so on.Although the country may not be a worldwide name for food and dishes, there's no doubt that Russia still boasts of some local delicacies that will definitely tickle your taste buds.Tourists should try out some of these local cuisines: Blini,Pelmeni, Borscht, Beef Stroganoff, Syrniki, Shashlyk, etc.Russia is also widely known for Vodka, so you can find varieties around the country. Kvass is a unique beverage for Russians, so tourists should try to get some of that too."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "_id": {
+        "$oid": "62012cf3aeb2762501702e89"
+    },
+    "region": "central-asia",
+    "image1": "http://virtualtravel.tv/ZImages/Central-Asia4.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/Central-Asia2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/Central-Asia3.jpg",
+    "countries": [
+        {
+            "country": "Kazakhastan",
+            "image1": "http://virtualtravel.tv/ZImages/Kazakhstan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Kazakhstan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Kazakhstan3.jpg",
+            "description": "In 2018, Kyrgyzstan was tagged as 'an adventure travel destination secret that is bound to get out soon.' So it's not surprising that foreigners are focused on finding out what secrets of nature are hidden in this country. The country is also working hard to encourage and promote eco-friendly tourism so that visitors can enjoy the beauty of the local environments.According to National Geographic science magazine, there are eight major places tourists and foreigners should visit in Kyrgyzstan. These locations are:· Ala Archa National Park – located some 40km away from Bishkek.· Lenin Peak – one of the most famous peaks in Kyrgyzstan.· Köl-Suu – a lake located near the border with China.· Ala-Kul – located in the snowy mountain area of Teskey Ala-Too.· Tash Rabat – a former parking lot for caravans andmerchants, but now has a caravanserai built in a valleybetween the mountains.· Arslanbob – One of the biggest walnuts fields in the world.    · Bokonbaevo – a small village that attracts visitorsbecause of its preserved culture.Canyon Fairy Tale – a canyon created after years of water and wind erosion. It is located on the southern shore of Lake Issyk-Kul."
+        },
+        {
+            "country": "Kyrgyzstan",
+            "image1": "http://virtualtravel.tv/ZImages/Kyrgyzstan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Kyrgyzstan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Kyrgyzstan3.jpg",
+            "description": "In 2018, Kyrgyzstan was tagged as 'an adventure travel destination secret that is bound to get out soon.' So it's not surprising that foreigners are focused on finding out what secrets of nature are hidden in this country. The country is also working hard to encourage and promote eco-friendly tourism so that visitors can enjoy the beauty of the local environments.According to National Geographic science magazine, there are eight major places tourists and foreigners should visit in Kyrgyzstan. These locations are:· Ala Archa National Park – located some 40km away from Bishkek.· Lenin Peak – one of the most famous peaks in Kyrgyzstan.· Köl-Suu – a lake located near the border with China.· Ala-Kul – located in the snowy mountain area of Teskey Ala-Too.· Tash Rabat – a former parking lot for caravans andmerchants, but now has a caravanserai built in a valleybetween the mountains.· Arslanbob – One of the biggest walnuts fields in the world.    · Bokonbaevo – a small village that attracts visitorsbecause of its preserved culture.Canyon Fairy Tale – a canyon created after years of water and wind erosion. It is located on the southern shore of Lake Issyk-Kul."
+        },
+        {
+            "country": "TAJIKISTAN",
+            "image1": "http://virtualtravel.tv/ZImages/Tajikistan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Tajikistan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Tajikistan3.jpg",
+            "description": "A term used to describe Tajikistan is 'predominantly mountainous,' rightly so because over 90% of the land is on an elevated region. This position has given this country the advantage of having some of the world's most astounding, high-altitude landscapes. And who would say no to an opportunity to climb these inviting peaks and walk through the beautiful valleys nestled among these mountains? As a side note, Tajikistan is nicknamed 'Roof of the World.' Some of the major highlights for tourists are Pamir Highway,Wakhan Valley, Fann Mountains, Jizeu Valley, Kayrakkum Reservoir, Lake Karakul, and Iskander-Kul.The capital, Dushanbe, is one of the most elegant cities in Central Asia, featuring neoclassical facades, the largest teahouse globally, the tallest flagpole in the world, and gilded palaces.Since most of the population are farmers, there's usually a variety of delicacies for visitors to try out. Some of them are:· Plov – a dish that contains lamb fat and vegetables. · Mante – steamed meat dumplings · Non – flatbread.· Beshbarmak – A mutton broth with potatoes or noodles."
+        },
+        {
+            "country": "TURKMENISTAN",
+            "image1": "http://virtualtravel.tv/ZImages/Turkmenistan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Turkmenistan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Turkmenistan3.jpg",
+            "description": "Although Turkmenistan is mostly under people's radar,tourism in the country has increased over the years. There are three World Heritage Sites in the country. At the heart of its attraction sites is Ashgabat, the capital city of Turkmenistan.This city's special places are the Arch of Neutrality, many Lenin statues, Independence Square, gardens, mosques, and galleries.Besides the capital, the majority of the country's other attractions are situated around the edges of the desert. Some of the legacies of these places make up the World Heritage Sites.Although the ex-Soviet Union has some magnificent sites for visitors, the autocratic rule and repressive regime have made the country turn off potential tourists. However, those who have braved the odds and gone there will describe what it feels like to bathe in the underground lake in Bakharden,climb the cool climes of Chuli Valley, swim in the Caspian Sea at Turkmenbashi, and even take a tour of the famous Silk Road."
+        },
+        {
+            "country": "UZBEKISTAN",
+            "image1": "http://virtualtravel.tv/ZImages/Uzbekistan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Uzbekistan3.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Uzbekistan4.jpg",
+            "description": "This county is one of the rarely visited nations, but visiting Uzbekistan is an excellent way to experience the things great men like Alexander the Great and Genghis Khan felt when they blazed through this land.Uzbekistan is famous for the Big Three, a term used to describe the nation's three main Silk Road cities. The first is Samarkand, a historic town known as the 'Jewel of Islam.'Its cityscape is picture-perfect, featuring glittering turquoise domes and high minarets filled with stunning mosaics.The second and most remote of the Big Three, Khiva, is a living museum filled with a wide variety of Islamic architecture.Bukhara, the third, is probably one of the most beautiful cities in the Islamic world.Besides these artificial attractions, nature also has its beauty to offer. For example, there are the Boi-Bulok Caves and the Chatkalsky Reserve."
+        }
+    ]
+}

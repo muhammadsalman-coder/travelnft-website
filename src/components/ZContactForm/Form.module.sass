@@ -1,0 +1,63 @@
+@import ../../styles/helpers
+
+.form
+    position: relative
+    &:focus
+        outline: none
+        background-color: transparent
+
+.input
+    width: 100%
+    height: 48px
+    padding: 0 48px 0 14px
+    border-radius: 24px
+    background: none
+    border: 2px solid $neutrals6
+    +poppins
+    +caption-1
+    color: $neutrals2
+    transition: border-color .2s
+    +dark
+        border-color: $neutrals3
+        color: $neutrals8
+    &:focus
+        border-color: $neutrals4
+    +placeholder
+        color: $neutrals4
+
+.btn
+    position: absolute
+    top: 8px
+    right: 8px
+    bottom: 8px
+    width: 32px
+    height: 32px
+    border-radius: 50%
+    background: $blue
+    transition: background .2s
+    svg
+        fill: $neutrals8
+    &:hover
+        background: darken($blue, 10)
+.textInput
+    background-color: transparent
+    border: none
+    border: 1px solid #bebebea2
+    margin-top: 1rem
+    color: black
+    // height: 200px
+    +dark
+        background-color: transparent
+        border: 1px solid #535353a2
+        color: #9b9b9b
+    &:focus
+        outline: none
+        background-color: transparent
+        +dark
+            outline: none
+            background-color: transparent
+            color: #9b9b9b
+.msg
+    height: 200px
+    +dark
+        height: 200px

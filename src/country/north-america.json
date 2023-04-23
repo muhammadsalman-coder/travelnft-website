@@ -1,0 +1,52 @@
+{
+    "_id": {
+        "$oid": "62012d57aeb276250170cad8"
+    },
+    "region": "north-america",
+    "image1": "http://virtualtravel.tv/ZImages/North-America1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/North-America2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/North-America3.jpg",
+    "countries": [
+        {
+            "country": "CANADA",
+            "image1": "http://virtualtravel.tv/ZImages/Canada1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Canada2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Canada3.jpg",
+            "description": "During the 1776 Continental Congress, former American president John Adams proclaimed, 'Canada must be ours; Québec must be seized. However, the United States did not take Québec or Canada, which evolved into a tremendous independent country with its distinct cultural character. Although Canada may appear to be a more relaxed, kinder version of its American neighbor, at first sight, its residents will immediately point out all the features that distinguish their country. Although Canada has a more subtle image than the United States, Canadians nearly always find a reason to rejoice and party at any time of year. Some of Canada's most popular holidays and events, such as Québec City's Winter Carnival and Ottawa's Winterlude, take place in the dead of Winter to rouse Canadians from their slumber. On the other hand, summer continues to be Canada's most significant festival season, with millions of spectators flocking to the Calgary Stampede and the Scotiabank Toronto Caribbean Carnival. Although grocery shops and restaurant menus in Canada contain nearly identical products to those in the United States, each Canadian area offers tourists its unique regional delicacies. Tourtière meat pies and poutine, French fries covered with gravy and cheese curd, are two of Québec's most well-known trademark foods. Lobster, shellfish, and fiddleheads, coiled fern heads, are the most common items on Atlantic Canadian restaurant menus. In contrast, pirogies, owing to the region's sizeable Ukrainian immigrant  community, have become a western Canadian cuisine staple.Every Canadian city and town has its list of recommended drinking establishments, but Vancouver and Montréal are two of the country's most vibrant nightlife destinations."
+        },
+        {
+            "country": "HAWAII",
+            "image1": "http://virtualtravel.tv/ZImages/Hawaii1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Hawaii2.jpg",
+            "description": "Hawaii, the most popular vacation spot in the northern Pacific Ocean, was controversially seized by the US in 1900, but it wasn't until 1959 that it became a state. Hawaii is now the most popular vacation and honeymoon destination in the United States, earning the nickname 'Aloha State' for its subtle vibe that attracts millions of visitors each year. Despite this, the archipelago hosts a wide range of spectacular festivities. The Aloha Festivals are, without a doubt, the most well-known across the islands, exhibiting all that distinguishes Hawaii's culture. In terms of popularity, the Merrie Monarch Festival rivals Aloha. There are many cultural, historical, and sports events to enjoy throughout the year, no matter when you visit. Even in the middle of contemporary development, Hawaii maintains a distinct indigenous culture. Many areas on the islands are off-limits to indigenous peoples. However, with prior permission, many of these locations are accessible to the public. Like many other water sports such as outrigger canoeing, Surfing is almost a religion in the state. Pineapples aren't a staple of Hawaiian cuisine, contrary to popular belief. Traditional Hawaiian, American, Portuguese, and Asian delicacies are among the local culinary delights, a fine blend of influences. Restaurants range from five-star sushi joints to traditional Hawaiian barbecues known as luaus and can be found throughout the archipelago's tourist-rich areas."
+        },
+        {
+            "country": "PUERTO RICO",
+            "image1": "http://virtualtravel.tv/ZImages/puerto-rico1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/puerto-ric2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/puerto-rico3.jpg",
+            "description": "From African slaves to Spanish conquerors, Puerto Rico has been influenced by a diverse range of civilizations. Today, the island offers a diversified landscape, with several chances to experience the island's vast and magnificent natural surroundings as well as learn more about its fascinating and complicated past. Because Christopher Columbus discovered it, Puerto Rico's history is intertwined with that of the United States. As they desire freedom and independence, this connection remains a complex subject. Their culture is diverse, with influences from worldwide, yet it retains a unique Caribbean island feel. Although many of Puerto Rico's renowned events occur in San Juan, this does not make them any less exciting or unique. Visitors visiting the region are in for a treat at any time of year, with Puerto Rico festivals such as Carnival in February taking over the streets and the Heineken JazzFest in March bringing together some of the world's most famous jazz musicians. The nightlife on the island of Puerto Rico is diverse, with everything from salsa music to laid-back bars. Because things are quieter in more rural locations, most of the action takes place in larger cities. The country's restaurants provide a diverse selection of cuisines, allowing tourists to sample regional specialties or dine on familiar fare."
+        },
+        {
+            "country": "US VIRGIN ISLANDS",
+            "image1": "http://virtualtravel.tv/ZImages/US-Virgin-Islands3.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/US-Virgin-Islands2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Wild-pigs-on-Big-Majors-Island-in-The-Bahamas-lounging-and-walking-around-in-the-sand-and-ocean.jpg",
+            "description": "The US Virgin Islands became US territory in 1917, 50 years after its former owner, Denmark, proposed to transfer them to the US in 1867. The US Virgin Islands has quickly risen to the top of the list for Americans looking for an exotic Caribbean holiday without having to leave the country.The culture of the United States Virgin Islands blends modern American influences with centuries-old Caribbean customs. Family-owned Caribbean eateries compete with Pizza Hut, McDonald's, and other well-known American fast-food franchises. On the other hand, Quelbe is a unique kind of music and dance found nowhere else on the planet. Island musicians perform American blues and jazz aside from reggae, calypso, and different traditional Caribbean rhythms.Many festivals in the US Virgin Islands feature colourfully costumed dancers on stilts known as moko Jumbies, ranging from one of the world's loveliest Valentine's Day celebrations to the classic Caribbean Carnival festivities. Although each US Virgin Islands conducts its own vibrant Carnival celebrations, St John's is the ideal location for combining the Caribbean's most celebrated event with the United States' own Independence Day. The Fourth of July coincides with the Carnival's last parade day.The Texas Pit barbeque at the Charlotte Amalie Waterfront and eateries offers local delicacies like johnnycake, yellowtail, and fungus. The okra and cornmeal dish provide the most excellent culinary arts deals in St Thomas."
+        },
+        {
+            "country": "USA",
+            "image1": "http://virtualtravel.tv/ZImages/USA1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/USA2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/USA3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/USA4.jpg",
+            "image5": "http://virtualtravel.tv/ZImages/USA5.jpg",
+            "image6": "http://virtualtravel.tv/ZImages/USA6.jpg",
+            "image7": "http://virtualtravel.tv/ZImages/USA7.jpg",
+            "image8": "http://virtualtravel.tv/ZImages/USA8.jpg",
+            "image9": "http://virtualtravel.tv/ZImages/USA9.jpg",
+            "image10": "http://virtualtravel.tv/ZImages/USA10.jpg",
+            "description": "The United States of America (US) is dubbed 'the land of the free and the courageous home.' Since the twentieth century began, the United States has dominated worldwide culture, economy, and politics and is the apex of industrial expansionism. There is no doubting its status as a modern international superpower. Through Hollywood blockbusters and twentieth-century music, the United States has been hailed as the epicenter of Western civilization. Yet, Americanization hasn't influenced most nations in some way. Nonetheless, the government has a brief but intriguing history that has helped form the worldwide phenomenon of contemporary America. Each United States region has its festivals and events, but a few are held throughout the country. America's independence from British colonial rule is commemorated on this day. Thanksgiving is a famous American holiday that commemorates the landing of Europeans at Plymouth Rock by hosting family feasts. The majority of businesses and retailers are closed on these national holidays. The cuisine of the United States is as diverse as its  population, ranging from simple southern cooking to ultra- refined fusion and molecular gastronomy in the culinary  capitals of New York and Los Angeles. The high-level immigration into the country has resulted in a melting pot of cuisine in the country, where you may find every national dish from across the world. Fast food, takeout, and chain  restaurants are all available, as are formal and elegant five-star establishments. The legal age one can drink in the United States is 21, and most clubs have strict policies in place. As a result, cities like Las Vegas and Hollywood have incredible nightlife."
+        }
+    ]
+}

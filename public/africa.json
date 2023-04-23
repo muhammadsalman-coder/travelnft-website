@@ -1,0 +1,432 @@
+{
+    "_id": {
+        "$oid": "620127f1aeb276250168f746"
+    },
+    "region": "africa",
+    "image1": "http://virtualtravel.tv/ZImages/m-africa1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/m-africa2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/m-africa3.jpg",
+    "countries": [
+        {
+            "country": "Algeria",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/algeria3.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/algeria2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/algeria1.jpg",
+            "description": "Extending into the Sahara desert and the Mediterranean coast,  Algeria is located in Northern Africa. Islamic heritage outlines the customs, history, andlanguage of Algeria. While in Algeria, enjoy greenery at a botanical garden, Le Jardin d’Essai du Hamma. The garden is the perfect place for agricultural plans due to the increase of water in the area along with the cooler climate. Enjoy scenic walking areas of Pic des Singes. The red mountains are a,relaxing, and beautiful place to visit. With a Mediterranean and North Africa blend of flavors, Algerian food is a must-try. Plates in Algeria are created fromthe foundations of meats, veggies, and cereals. A famous dish is called Couscous, which is made with semolina and meat stew. The plate is generally eaten on Fridays following old traditions. Another cultural dish is Tajin Zitoun,which is a chicken and olive dish. Zitoun is particularly famous during Ramadan and eaten with bread. An annual festival to attend is the Pan-African CulturalFestival. This festival includes performances and exhibitions all over Algeria with thousands of artists, actors, musicians, authors from the African Union."
+        },
+        {
+            "country": "Angola",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/angola3.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/angola2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/angola1.jpg",
+            "description": "Experience the adventures offered in Angola. While not your traditional tourism spot, Angola is a spot where you can experience a county and immerse yourself in the culture. In Angola, visitors will receive an authentic experience.The weather is tropical, and the road conditions are poor, which does not seem to bother the locals. Tourists come to Angola to witness untouched nature,wildlife, and diversity. Fish, seafood, beef, goat, and pork are essential parts of the Angolan food chain. Dishes are commonly completed with plantains,veggies, sweet potatoes, beans, and rice. Angola is known for its extensive wildlife. Out of all the countries in Africa, Angola is the perfect place to admire plants and animals. When looking at the best place to spot wildlife, consider Kissama, a wildlife sanctuary. Hikers will enjoy the beautiful sights from the Tundra Vala Fissure. Spectacular waterfalls can be viewed from Dala Waterfalls. An important holiday in Angola is Carnival Tuesday on February 16.Carnaval is the most celebrated holiday with parades and festivities happening around the country."
+        },
+        {
+            "country": "Benin",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/benin1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/benin3.jpg",
+            "image3": "https://i.ibb.co/TbymfGS/benin2.jpg",
+            "description": "Filled with natural beauty, Benin attracts tourists nationally. Benin provides paradise along its coast with palm trees. The country also shows off beautiful national parks filled with elephants, cheetahs, lions, and birds of all kinds.Roads and amenities are perfect for tourism, and a trip to the country is a good start to adventuring Africa. Visit Cotonou to dive into the country’s charm. Filled with beaches and animal reserves, Cotonou provides a multitude of adventures. While in search of wildlife, W-Arli-Pendjari, also known as the greatest reserve in west Africa. Beans, rice, couscous, and tomatoes are a massive part of Benin’s food group. Fruits are especially common. The national dish is Kuli-kuli which provides protein and nutrients. Fried yams and potatoes are a must-try and can be found at almost any eatery. Want to know more about the culture of Benin? Visit during the Quintessence Film Festival held every year in early January to celebrate local cinema. Another famous occasion is the International Festival of Dahomean Culture that occurs for 10 days throughout December. The celebration highlights the cultural diversity in Benin,showcasing folklore, dances, and songs."
+        },
+        {
+            "country": "Botswana",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/botswana1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/botswana2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/botswana4.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/botswana3.jpg",
+            "description": "Be enchanted with the landscapes, culture, and wildlife of Botswana. Chobe National Park is known to have the best views of landscapes and wildlife in Botswana. Visitors can witness bathing elephants, lion cubs, exotic birds, and more. Okavango Delta is another wildlife hotspot that is a safari destination.While in search of wildlife, the best time to visit the park is during flood season which is May to October. When visiting Botswana it is essential to try the food,and you will. The national dish of Botswana is Seswaa which is made up of goat, lamb or chicken, beef, and onion. A common side dish of Seswaa is Morogo, made of spinach. A moreover popular dish is Matemekwane. This dish is little dumplings filled with meat and veggies. If visiting Botswana during flood season, ensure to check out the Tjilenje Cultural Festival that takes place in May. Games, dances, and traditional food is offered."
+        },
+        {
+            "country": "Burkina Faso",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/burkina-faso1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/burkina-faso2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/burkina-faso3.jpg",
+            "description": "Offering extensive plateaus and savanna, the former French colony in Burkina Faso gained its independence in 1960. The name Burkina Faso is translated to “Land of Incorruptible People. Visitors can expect hot and dry seasons with a few months of rainfall. In North Burkina Faso are savannas that come to life when it rains. Animal life can be seen throughout the savanna, including buffalo, antelope, hippos, elephants, monkeys, lions, and more. Arli National Park, located southeast of the country, is home to many animals. Visitors can see many species and take advantage of tours. When choosing a spot to see wildlife, consider Nazinga Reserve. The best time to spot elephants is between December to April. Specialty food in Burkina Faso is Babenda. The dish is made up of a stew of fish, beans, and spinach. Rizgras is another dish cooked with onions, meat, and tomatoes. Tabaski Festival is celebrated alongside Ramadan and the Feast of Eid al Ftir. During the celebration, rams are sacrificed, and the preparation is a family effort. The celebrations occur scattered throughout the months of June to August."
+        },
+        {
+            "country": "Burundi",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/burundi1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/burundi2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/burundi3.jpg",
+            "description": "A small yet stunning country is Burundi. Filled with an abundance of nature,hippos and exotic birds attract visitors to the country. Burundi is also home to inland beaches. Bujumbura is a beautiful beach town to visit. The Living Museum is located in the area and is known as one of the best ones around,showcasing ancient crafts. Right outside of Bujumbura is the Rusizi River National Park that provides a home to many animals in the area, especially hippos. Buffalo, hippos, and crocodiles can be viewed from Ruvubu National Park. Burundi is known for its specialty food, Ibiharage, which is red kidney beans with onion and chili. Boko boko harees is another dish made of chicken,beluga wheat, turmeric, and onion. Join Unity Day in Burundi on February 5.The day signifies the national unity constitution that came into effect in 1992."
+        },
+        {
+            "country": "Cabo Verde",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/cabo-verde1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/cabo-verde2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/cabo-verde3.jpg",
+            "description": "A must-see chain of beautiful islands with a multitude of mountain and seaside locations is Cabo Verde. The white powder beaches with clear light blue water can be seen in Santa Maria. Day trips and nightlife are perfect in this area.Hikers should check out Cava. Amazing sights can be seen in Cava, including nature. Another popular hiking spot is the volcano, Pico de Fogo. The volcano can be climbed in nearly six hours. A green and beautiful city is the Ribeira Grande. February is the perfect time to visit Cabo Verde during the colorful festival and carnival. Everywhere around the country visitors will find parties and music throughout the streets. Filled with windy roads, restaurants, and street markets, the area is a hotspot for tourists. Specialty food in Cabo Verde is Canja, a thick chicken soup cooked with rice. Catchupa is another must-have a specialty that is a stew made of corn, veggies, beans, tuna, or meat."
+        },
+        {
+            "country": "Cameroon",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/cameroon1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/cameroon2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/cameroon3.jpg",
+            "description": "Located in the heart of Africa, Cameroon is filled with volcanoes, beaches,rainforests, and more. Filled with life, Cameroon is home to many industrial cities and nature. Natural parks are a must-see in the area with Gorillas being a popular animal to find. Gorillas can be commonly found in the Campo Ma’an National Park along with other wildlife, including elephants, giraffes, and hyenas. While nature sights are a top priority, stopping by Cameroon’s capital Yaounde should be another. The capital is filled with many buildings and rising terrain. A city that sits below an active volcano, Mount Cameroon is known as Limbe. Filled with botanical gardens, waterfalls, and parks, Limbe is the perfect spot to view nature and wildlife. Cameroon has many food specialties with brochettes being one of them. Brochettes are similar to a barbecued kebab made up of chicken, goat, or beef. The best time to immerse into Cameroon's culture and food are during culture week, generally observed in August or September. Occurring all over the country, the days invoice music shows,sports, dances, wrestling, and more."
+        },
+        {
+            "country": "Central African Republic",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/central-america1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/central-america2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/central-america3.jpg",
+            "description": "A rich country filled with beauty and wildlife diversity is the Central African Republic. While the Central African Republic is known for its exotic animals, it is currently not safe to visit. However, when it is safe to travel again there are a few places to check off on the list. Manovo-Gounda St Floris National Park is known as a popular spot for wildlife. The area is filled with multiple species,including the black rhino, a rare sighting. Other common species are wild dogs,elephants, cheetahs, and leopards. Beautiful waterfalls can be seen in the town of Boali. The waterfalls are widely known in the Central African Republic.Specialty food in the country is served with sides of veggies and meat. Makara is bread made of cassava flour. Chicken and cumin stew is made with onion,garlic, and tomato. Indulge in the best places of the Central African Republic,and be sure to bring your camera along with you."
+        },
+        {
+            "country": "Chad",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/chad1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/chad2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/chad3.jpg",
+            "description": "Offering immense adventure, Chad is the home to oases within deserts and herds of wildlife that make their way into national parks. While the country is currently unsafe to travel to, there are a few items to include on your list once it is safe again. In Chad, the heat can be unbearable, so ensure to bring sunscreen and a hat. Many visitors travel to chad to venture upon the Sahara Desert, which is one of the most spectacular places in the world. The Lakes of Ouianga surround the Sahara Desert and provide water to animals in the area.Zakouma National park is a must-see in Central Africa that is a wildlife sanctuary. Chad is known for multiple traditional cooking dishes. A few staple pieces include peanut sauce that is commonly served with rice. Try karkanji for a refreshing drink, a tea made up from hibiscus flowers. Join in on the festivities of the country during the Proclamation of the Republic held on November 28.Locals come together for festivities and fun."
+        },
+        {
+            "country": "Comoros",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/comoros1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/comoros2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/comoros3.jpg",
+            "description": "Located off the coast of Africa is the perfect place to go off the grid, at least for a while. While there is not much to attract tourism in Comoros, it is a paradise of its own. Bananas and palm trees sway through the air and the blue sky.Swahili heavily influences the area, and alcohol is forbidden. White sand beaches and hiking in the rainforest are offered. Tourists can venture to local volcanoes as well. Moheli is one of the small white sand beaches that is undeveloped. Sea turtles, dolphins, and whales are commonly spotted. For a hiking adventure, Mount Karthala is an active volcano. The landscape is unique to hike, and travels should be prepared to be gone for at least two days.Comoros food is heavily influenced by European and Middle Eastern dishes.Specialties in the area include langouste a la vanille, which is lobster that is boiled in a vanilla sauce. While in Comoros, consider visiting during a holiday to immerse yourself in the culture."
+        },
+        {
+            "country": "Côte d'Ivoire",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/cote-divoire1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/cote-divoire2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/cote-divoire3.jpg",
+            "description": "A starfish beach paradise with palm tree forest and orange roads, Côte d'Ivoire,also known as the Ivory Coast, is a paradise. The Indénié-Djuablin Region located in south-east Côte d’Ivoire. The area is a massive cultural attraction filled with festivals and beautiful sights. High mountains and lagoons fill different areas of the Ivory Coast along with rain forest. The town of Man is a must-see area that is deep into the country. Filled with a waterfall, coca plantations, and farms, there is a lot to see. Another beautiful sight is the Tai National Park. Visitors can see hippos, monkeys, chimpanzees, and other species. Famous food pieces are ingrained with grains, veggies, rice, peanuts,and maize. The national dish of the Ivory Coast is Fufu with rice and beans.These foods are typically served with meat or fish and vegetable sauce. To immerse into the culture of the Ivory Coast, visit in March during the Carnival in Bouaké. The carnival is essentially a version of Mardi Gras that is celebrated with a week-long of events."
+        },
+        {
+            "country": "Democratic Republic of Congo",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/democratic-re-of-congo2.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/democratic-re-of-congo1.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/democratic-re-of-congo3.jpg",
+            "description": "Rainforests, rivers, and volcanos fill the Democratic Republic of Congo. While Congo has not always been a popular tourist attraction, its geography includes some of the richest landscapes in Africa. Lola Ya Bonobo is a haven for bonobos and is a popular attraction. While Bonobo’s are commonly hunted,Lola Ya Bonobo provides a sanctuary that attempts to recover Bobobo’s so they can live out healthy lives. Kahuzi Biega National Park provides the experience of volcanoes that are excellent for hiking. The Virunga National Park sits on the borders of Uganda and Rwanda. The park is a UNESCO World Heritage Site and the oldest national park in Congo. Visitors will come across forests, volcanoes, swamps, savannas, valleys, and other surprises. Congos town offers different restaurants and bakeries that are immersed within the culture. A few specialties are Moambe, which is the national dish made up of chicken or fish cooked with cassava leaves, bananas, hot pepper sauce, palm nuts, and peanuts. Visit Congo during a holiday, such as National Liberation Day on May 17 that pays tribute to the Movement for Liberation of the rebel group in Congo that fought against the government. Dive into how holidays are celebrated in the country."
+        },
+        {
+            "country": "Djibouti",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/dijbouti1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/dijbouti2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/dijbouti3.jpg",
+            "description": "Nature and history enthusiasts will love Djibouti. Home to three different ethnic groups that live alongside each other in peace. Visitors will even be pleased to know that the Djiboutian people adore foreigners. Lake Assal, also known as Honey Lake, is at the end of the Gulf of Tadjoura and is the largest salt reserve.The lake is currently in the process of becoming a UNESCO World Heritage site. The views at the lake are once in a lifetime breathtaking views. The Hanlé Plain is an area surrounded by mountains and small lakes. The area attracts birds, including the Egyptian Goose and the blake crake. When in Djibouti, the traditional food dishes are a must. Sambuussa is a popular meal starter. The fried pastries are made of meat, veggies, and onions. A tasty dessert to indulge in are the banana fritters. Made with bananas, four, and nutmeg, be ready to fall in love. Dive into the culture of Djibouti when visiting during Fest’Horn, a special holiday celebration that occurs in mid-December. Performances occur throughout the area for all to enjoy."
+        },
+        {
+            "country": "Egypt",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/egypt1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/egypt2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/egypt3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/egypt.jpg",
+            "description": "The famous land known to be the home to past emperors and Pharaohs, Egypt remains a hot tourist destination filled with tombs and temples. Visitors can find relaxation, history, and adventure when visiting the country. The Pyramids of Giza are a top must-see item. These tombs hold the bodies of past Pharaohs.Abu Simbel is colossal statuary with guards sitting on the outside. The inside walls are filled with paintings. UNESCO completed the engineering of Abu Simbel. The work by UNESCO essentially saved the original architecture from falling into the water of the Aswan dam. Swim in the Red Sea and see the coral reefs of the display. History can be viewed from down below since the sea was a massive wreck-diving area. A British ship from WWII remains at the bottom.When in Egypt, ensure to taste Kushari. The dish is made up of rice, lentils,and macaroni while topped with garlic vinegar, chickpeas, fried onions, and tomato sauce. Ever heard of an Egyptian pizza? Fiteer can be made in a variety of ways and are cooked in a brick oven. Get a deeper picture of Egyptian culture when attending the Alexandria International Film Festival held annually in November. Works from artists around the country are displayed,expanding deeper into the culture."
+        },
+        {
+            "country": "Equatorial Guinea",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/equatorial-guinea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/equatorial-guinea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/equatorial-guinea3.jpg",
+            "description": "While one of the least visited countries, Equatorial Guinea has a lot to offer.The small country is over 10,000 square miles. Attractions to visit in Equatorial Guinea include Paradise Island of Corisco. The island is located nearly 30 miles from the Equatoguinean Coast and is filled with clear water and white sand beaches. The Ureka Waterfalls house a series of waterfalls and beaches.A popular place to view wildlife in the area is Monte Allen National Park. The park is an old and protected area that houses a variety of wildlife, leopards,elephants, and chimpanzees. Specialty food to try in Equatorial Guinea is chicken with a side of boiled plantains or creamy peanut sauce with rice.Cassava is another specialty that is commonly served with meat or dish. The national drinks are Osang which is essentially an African tea. When ordering beer or wine, it is often locally produced. Want to get to know the culture of the country more? Join in for the Malabo Hip Hop Festival, a 10-day event that occurs annually in December. The festival revolves around cultural expression and provides workshops that are available to attend."
+        },
+        {
+            "country": "Eritrea",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/ertrea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/ertrea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/ertrea3.jpg",
+            "description": "Dive into culture and history when visiting Eritrea. For those that love unorganized adventure, Eritrea is the perfect place. Eritrea offers challenges mixed with cultural learning opportunities. Eritrea has yet to be touched by tourism developments but provides a variety of beaches, archaeology, reefs,and more. Senafe is filled with ruins as the area was previously inhabited by the Saho and Tigrinya people. While visitors can enjoy a history lesson, they can also climb the rocks of the highlands. Dahlak Marine National Park is surrounded by water and is an undisturbed ecosystem. The water is home to turtles, manta rays, multiple fishes, and dolphins. Underwater volcanoes can also be found along with shipwrecks. Visit Eritrea’s tropical rainforest, FIlfil.The area is home to mammals and birds. After a long day of adventuring, try new local food, including Kitcha. This dish is made up of thin wheat bread. Other favorites are meat or fish stew. If you are a coffee lover, try the local bun coffee with is immersed with a ton of sugar. If you are looking to learn more about the culture of Eritrea, talk to the locals and stay for a holiday to understand new customs."
+        },
+        {
+            "country": "Eswatini",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/eswatini1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/eswatini2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/eswatini3.jpg",
+            "description": "Eswatini or Swaziland is a beautiful African country under absolute monarchy rule. It’s found in South Africa and borders Mozambique. It’s a heaven for tourists harboring nature, cultural, historical, and ecotourism. A visit to Matenga Reserve and National Museum provides a glimpse of Eswatini history and culture. And if you want hands-on experience, book a homestay at Malkerns. While Africa is known for thrilling game drives, Eswatini has an exclusive option to offer. It boasts of having Africa Big five, which you can view in Mbuluzi, Hlane, and Mkhaya, among others. Shewula mountain camp and Malolotja nature reserve offer breathtaking views that eco-tourist will be left mesmerized. Eswatini delicacies are based on delicious porridge prepared from maize flour as the key ingredient. They include options likeSiftubi, Inchancwa, and Sishwala. Lastly, don’t miss the colorful Swaziland festival. It’s among the African renowned festivals that pull people around the region together to celebrate this occasion. The prime festivals are Umhlanga (August/September), Marula (February to March), and Incwala (December)"
+        },
+        {
+            "country": "Ethiopia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/ethiopia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/ethiopia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/ethiopia3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/ethiopia4.jpg",
+            "image5": "http://virtualtravel.tv/ZImages/ethiopia5.jpg",
+            "description": "Found on the horn of Africa, Ethiopia is one of the largest African countries and host to enchanting attractions. Christianity and Islamic religion played a role in the identity and history of this country.During your visit, explore Harar, a historic and renowned Islamic city. It’s the oldest in Africa, dating back to the 16th century with about 99 mosques within its walls. Lalibela is a mind-blowing historic place.It’s the country’s most famous attraction due to its distinct architecture. Also, you can tour the most hostile place in Africa, the Danakil Depression. Or enjoy the serene and beautiful nature spots, the Simiens Mountains, Blue Nile fall, Rift Valley lakes, and animal sanctuaries. A visit to Omo Valley offers a glimpse of untouched Ethiopian culture and tradition. Annually, there are two major festivals, Timkat and Meskel. They are the best and most famous invent you don’t want to miss. Lastly, Wat, a delicious stew made using berbere gives you a taste of the national dish."
+        },
+        {
+            "country": "Gabon",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/gabon1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/gabon2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/gabon3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/gabon4.jpg",
+            "description": "Gabon is an awe-inspiring travel destination. Situated in central Africa and lying alongside the Atlantic Ocean, there’s a lot to explore. From dense forests with diverse wildlife to beautiful beaches and impressive landscapes, it has a lot in store for travelers. Starting with Libreville, it’s the capital, business hub, and home to almost half the country’s population. It offers the cultural, historic, and modern taste of Gabon. Visit the Loango National Park for a memorable safari experience. To get a taste of both marine and jungle experience, Fernan Vaz Lagoon is a must-visit. Kongou falls on the other hand is an impressive attraction with a spiritual significance to the locals. The national museum at the capital is home to artifacts and exhibits that portray local history and customs. Further, try Poulet Nyembwe a special traditional delicacy, which is also the national dish. And in August each year, there’s T9P Gabon.It’s a traditional fest with African songs and dances."
+        },
+        {
+            "country": "The Gambia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/gambia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/gambia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/gambia3.jpg",
+            "description": "Found in western Africa, Gambia is a small country surrounded by Senegal on all sides except the Atlantic coastline. Even with the small size, Gambia has stunning natural and manmade attractions. Along the Atlantic coastline, visitors can relax along the beautiful golden beaches. It’s a tropical paradise with a cool breeze, warm sea, matured palms and there’s no crowding. Going inland, the Gambia River excursion offers a stunning experience with views of wildlife, countryside, and historic slave stations along the way. Inland, start with the puzzling Wassu Stone Circles. It’s a UNESCO site whose origin remains a mystery. At Banjul, you are in the country’s capital. There’s history and culture to explore here.Nature tourists can stop by Bijilo Forest Park, Abuko Nature reserve, and Makasutu Culture Forest for bird watching and wildlife exploration. And Janjanbureh and Fort James hold the historical slave trade tale in the region. Before you leave, try Domoda, the Gambian peanut stew, and the national dish. And on May/June, you can join in the celebration of the International Roots Homecoming Festival. There’s traditional music, dance, and art to explore."
+        },
+        {
+            "country": "Ghana",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/ghana1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/ghana2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/ghana3.jpg",
+            "description": "Ghana is strikingly a beautiful country in Africa. It’s a great place to stop by for an all-around tourist experience without sacrificing anything. From historical significance, modern wonders, and pristine nature, it’s a remarkable place that tourist love. Starting with Tradition and Culture, visit Manhyia Palace in the Ashanti region. It’s a hands-on experience of the Ghanaian culture, specifically the Ashanti region.Also, there are multiple cultural festivals you can attend while in Ghana, for instance, Homowo, Kundum,and Foo, among others. For historical discovery, start with Kwame Nkurumah Memorial Park and Mausoleum. Thereafter visit Elmina Castle and journey to a distant past. Afterward, visit the Cape coast to learn about the Portuguese slave trade among other historical facts. And if you love game viewing try Kakum National Park, Paga Crocodile Pond, and Mole National Park. They have a magnificent collection of wildlife. Lastly, eco-tourists will love the adventure around Lake Bosumtwe, Busua, Lake Volta, and Nzulezu. Also feast on Ghanaians favorite dish, Fufu is a perfect way to complete your vacation."
+        },
+        {
+            "country": "Guinea",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/guinea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/guinea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Guinea.png",
+            "description": "Guinea’s a great bounty to nature and eco-tourists. Famous for Mount Nimba Strict Nature Reserve, there are over 12, 000 hectares of forest and wildlife within to explore. Having a mountain range, hikers and nature trail lovers can have all the fun they need. You can start your excursion with a taste of the national dish, the Poulet Yassa. Thereafter, visit National Museum for Guinea’s historical past. Visit the Conakry Grand Mosque for architectural marvel. And thereafter, journey to Les Cascades De La Soumba for a spectacular view of the fall. And then continue with your eco-tour to other similar sites. They include the National Park of Upper Niger, Mount Nimba, Fouta Djallon Highlands, and Massif du Zama. Finally,there are three prime festivals in Guinea that provide you with the country’s cultural experience. They are Macao Arts Festival, Festival des Arts de Conte and International Festival Kora et Cordes."
+        },
+        {
+            "country": "Guinea-Bissau",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/guinea-bissau1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/guinea-bissau2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/guinea-bissau3.jpg",
+            "description": "Based in West Africa, Guinea-Bissau is an excellent place for a tropical adventure. It’s a perfect fusion of indigenous and exotic treats. From beautiful beaches to dessert ridges, winding rivers, rainforests,savannah, and wildlife, are just a few to mention. To historians, there are colonial architectures like Fortaleza d’Amura and Bubaque Museum for a historical wander. To scout nature and wildlife, visit Orango Island for a hippo show, Lagoas Cufada, Dulombi-Boe, and Cantanhez National Parks. Yassa Chicken, Egusi Soup, and Jollof rice mark Guine-Bissau's main traditional dishes. For instance, Egusi Soup comprises a thick stew from squash seeds. And Yassa chicken is not only a favorite to Guine-Bissau but entire west-Africa. It’s a traditional dish prepared from chicken and sauce (tomato and onion). Lastly,Jollof rice is a traditional cuisine that comprises Rice, tomato paste, palm oil, and onions. Also, it includes fish or meat and vegetables. To complete the cultural venture, attend Carnival, a national festival that combines the locals and Portuguese cultural traditions."
+        },
+        {
+            "country": "Kenya",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/kenya1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/kenya2-copy-0.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/kenya3.jpg",
+            "description": "Situated in Eastern Africa, Kenya is popular for its classic game drives. And when you least expect it, the adventure starts from the capital with a safari in the Nairobi national park. With that in mind, there are 39-game parks and reserves where you can view Africa’s-big-five and other wild animals. At the coast, there are marine parks for the exploration of marine and terrestrial animals. And the top-notch experience is sightseeing the great wildebeest migration. But there’s more to Kenya than wildlife. With a colorful cultural heritage, deep history, alpine snow, deserts, and Great Rift Valley, there’s an allure for all tourists. While in Kenya, have a taste of a popular dish across the country, Ugali. It tastes remarkable with a meat stew, vegetable stew, or Nyama Choma (roast meat) and kachumbari (sliced onions and tomatoes).While there’s no specific cultural event that outdoes the rest, you can choose among the ones available to attend. Visitors can try Lamu Cultural Festival, cake festival, and Lake Turkana Festival."
+        },
+        {
+            "country": "Lesotho",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/lesotho1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/lesotho2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/lesotho3.jpg",
+            "description": "Lesotho is nirvana for hikers. Nested in South Africa, the lowest point in this country is about 1,400m above sea level. What’s more, there is a ski resort to make your vacation more interesting. Some of the best hiking trails include Ha Lejeune – oxbow, Bokong, Liphofung, Maletsunyane gorge, Maliba Mountain, and Drakensberg Escarpment. At Thaba Bosiu, you can combine hiking and cultural exploration. Other absorbing attractions are the Dinosaur Footprint next to River Subang, Major Bell’s Tower, Kome cave-dwelling, and Katse Dam. The country’s culinary art was influenced by the British during their rule. However, there are traditional cuisines that have remained unchanged over generations.And the favorite national dish is Pap-pap and chakalaka. Papa-papa is purely a corn meal that is mostly served with chakalaka, vegetable stew. An important cultural festival location in Lesotho is Thaba Bosiu.They often organize annual festivals where locals display traditional music, arts, songs, and dances."
+        },
+        {
+            "country": "Liberia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/liberia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/liberia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/liberia3.jpg",
+            "description": "Beauty from nature, rustic culture, and history with victory and scars are the main draw to Liberia. While interior infrastructure is still undeveloped, it’s an opportunity for an authentic Liberia experience. There are nature reserves like Mount Nimba that hikers would love. Historic places like the Church of la Ermita la Agonia, Liberia National Museum, and Careysburg for historical scouting. And there’s Providence for a cultural tour. Liberia is also popular for exceptional traditional cuisines. Therefore, you must try Dumboy. It’s a prized national dish loved by the Bassa, Gio, and Mano people of this country. The main ingredient is Cassava, but it requires a novice to get the texture right. You can have it with Palm butter soup or attempt other options like Jollof rice, Pepper Kala, and Peanut soup. And every July 25th,Liberia puts a festive show to honor Guanacaste Annexation. There are traditional and cultural parades, dances,foods, and cattle shows."
+        },
+        {
+            "country": "Libya",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/libya1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/libya2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/libya3.jpg",
+            "description": "Libya is a North African country with spoils of history for visitors. From remains of Greece Cities to Roman ruins and bustling metropolises like Benghazi, there’s enough to wow visitors. But even so, there are striking nature sites. They include the Waw an Namus in the great Saharan desert, and the Mediterranean coast. They are the best sites away from the city ruins full of scars from turmoil. Fully dominated by the Arabic heritage, the country’s customs, language, and part of history is Islamic. Further,test the Libyans Culinary skills with their main dish, Libyan Couscous. It comprises beef stew, carrots,garbanzo beans, sweet potatoes, and spiced tomato sauce. It’s a heartwarming tasty local cuisine. Other local treats are Asida, Rub, Filfel Chuma, and Bureek. With almost 100% of the population being Muslims, the main national fest with a treat of culture is Eid-el Fitr. It’s a three-day festival after Ramadan. It’s a food-oriented national celebration with all kinds of cuisines."
+        },
+        {
+            "country": "Madagascar",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/madagascar1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/madagascar2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/madagascar3.jpg",
+            "description": "Madagascar stands out as the best place for nature explorations. It’s among the least explored continent with much of its surface still in pristine condition. Starting with Ranomafana, it’s a national park rich in biodiversity. It is home to lemurs that are the main attractions. And Tsingy De Bemaraha, it’s a place with rare limestone formations, wildlife, and a UNESCO site. Hiking is allowed in this park as well as bird watching and game spotting. At Ile Sainte Marie you can explore marine life and enjoy water activities.This includes whale sightseeing, diving, and surfing. And on Madagascar cuisine, Malagasy Cuisine is the main description of the Island’s major cuisine. It’s a reflection of the various cultures in Madagascar as well as historical influence. But what remains the same is that Romazava is the national dish. However,the preparation method and spices used to depend on the novice who prepares it. And if you want a true Madagascar experience, visit the Island in March. From urban buildings to streets and houses, you will notice color decoration. It’s a traditional day for celebrating the new year as opposed to the 1st January we are used to. But it’s not all about untouched nature; places like Ambohimanga have a cultural significance to locals. It’s where the Malagacy race originated from and it stands out as a cultural identity."
+        },
+        {
+            "country": "Malawi",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/malawi1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/malawi2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/malawi3.jpg",
+            "description": "While it’s not the riches in Africa, Malawi is packed with incredible landscapes. From the great Lake Malawi to Great Rift Valley split, it’s heaven for explorers. It claims most scenic landscapes you won’t find anywhere in Africa. Hikers can enjoy a daring tour on Mt. Mulanje. The highest peak is at 3,000 meters with a scenic view of the landscape below. And if that doesn’t seem to appease you, try Zomba Plateau. The hiking trails lead you to breathtaking views of the plateau and its magnificent features. This includes the dam, waterfall, and escape from cities heat. A trip to Dedza district grants you a chance to examine the Stone Age art, and this is at Chongoni Rock Art area. They are fascinating arts that are believed to relate to Malawi’s ritual ceremonies. At Nhotakota reserve, bird watchers can spot rare species of birds and also admire the elephants, buffalo, zebra, leopards, and antelopes. As you go out for scenic adventures, stock your energy with Nsima, a staple dish, and Malawians favorite cuisine. In September, marvel at the Lakes of star festival. It’s an international fest held yearly at the shores of Lake Malawi."
+        },
+        {
+            "country": "Mali",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/mali1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/mali2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/mali3.jpg",
+            "description": "Eight in Africa, Mali is a significantly large country with cultural diversity, great historical heritage, and pristine nature. Islamic heritage dominating the region has had a significant influence on the history and cultural practice of the locals. Starting with Djenne, it’s an iconic landmark in Africa and the greatest mosque in the region. It displays a successful Sudano-Sahelian architecture. It’s built from mud and has stood the test of time for several decades. Other historical sites include Bamako Cathedral, Tomb of Askia, and Timbuktu Manuscripts. Nature enthusiasts can marvel at Gouna falls and Cliff of Bandiagara.While animal fanatics will love game drives in Mali National Park. The best time to visit Mali is during the dry season. It’s a chance to view the thrilling Antogo Fishing Frenzy. It’s one of the famous traditional festivals in Mali. Thereafter, work up an appetite with Tiguadege Na. It’s a dish prepared with peanut sources and meat."
+        },
+        {
+            "country": "Mauritania",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Mauritania1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/ad3b1ab8-95ee-409a-8c1b-a14ed083aef3-image.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Mauritania3.jpg",
+            "description": "Situated in the northwest corner of Africa, Mauritania is among the countries in the continent with Islamic heritage. Therefore, the language, customs, and history are all in line with it. On that note, this country is full of history, cultural heritage, and natural wonderment to appease all senses. On your visit, stop by Banc d’Arguin National Park. It’s a cool and pristine wild and a breeding ground for the largest flocks of migratory birds. And if you want similar amazement, consider Diawling National Park. It’s also a great bird hotspot for bird-watching. You can change the scenery completely by visiting Oualata. It’s one of the best-kept secret jewels of Mauritania. It has historic importance and is one of the best places to be. When you feel hungry, consider Thieboudienne. It’s a coastal cuisine comprising rice and fish. In September,the country nationally honors the Tabaski festival. It’s a religious holiday in honor of Prophet Ibrahim’s sacrifice. Lastly, the Mauritania Sahara visit ensures you have a taste of the North African major desert and the world’s largest desert."
+        },
+        {
+            "country": "Morocco",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Morocco1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Morocco2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Morocco3.jpg",
+            "description": "Resting on Africa’s northernmost tip, Morocco intertwines African, Middle East, and European cultures seamlessly. Geographically, it touches both the Mediterranean Sea and the Atlantic Ocean. As such, you can experience two climatic zones in the same region. Begin with Rabat, Morocco’s capital. It combines traditional form and modern architecture. Also, it’s the best place to learn the country’s history, through the national museum. Speaking of history, Volubilis portrays roman civilization in the region. It was once an important Rome administrative center. Then consider a trip to Chefchaouen. It’s a scenic city and the best shopping place for souvenirs like hand-crafted art and woven blankets. The region also has a tasty goat cheese tourists are familiar with. A trip to Sahara Dessert spoils you with awe-inspiring Erg Chebbi dunes. They are about 150meters high. And if you want time off your busy excursions, consider Asilar and Essaouria. They are coastal towns with beautiful golden beaches for relaxation. And if you have a taste for dates, time the Erfoud Date Festival when the country’s major date harvest occurs. And lastly,order a plate of Couscous in any local eatery or restaurant. It’s Morocco’s main traditional dish."
+        },
+        {
+            "country": "Mozambique",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Mozambique1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Mozambique2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Mozambique3.jpg",
+            "description": "As part of Southern Africa, Mozambique is a spoil for choice to leisure tourists. With a coastline that stretches for over 2500 km, there are multiple beaches for all sorts of leisure activities. From luxury lodges to resort hotels, visitors are drawn to the layback lifestyle along the coastal area of this country.But they are not the only ones. The rich African culture that’s reflected in Music, art, and dishes is another striking feature that attracts cultural tourists. Historians and eco-tourists can spend time at Pemba and Gorongosa National Park respectively. The unique national dish is not something you can overlook.Xima is a dish prepared by local novice familiar with its recipe. And the secret here is the type of maize used as the flour. Lastly, from the list of Mozambique national festivals, most of them have traditional music elements. Therefore, you can consider attending the FORR festival in September. Or try Tambo International Art Camp where cultural diversity is the theme of the day. With music, theater, and dance as ways to express it."
+        },
+        {
+            "country": "Namibia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Namibia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Namibia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Namibia3.jpg",
+            "description": "Namibia can be rough and tough due to the harsh desert climate. But, it’s also full of contrast due to the change of climate in some regions. That said, it has a unique charm that draws thousands of tourists to this destination. Found in southwest Africa, it’s among the driest region in Africa. With places like Sossusvlei, it’s home to the highest Sandunes in the world. Some are as tall as 350 meters. When it comes to Wildlife, the climate doesn’t seem to affect diversity. Visitors can spot rhinos, giraffes, elephants,hyenas, and lions. And all these are available in Etosha National Park and Skeleton Coast National Park.For a change of scenery, visit the green Zambezi Region for a water-based safari. To understand the way of life of the locals, visit Kaokoveld. It’s a cultural zone where you can interact with Himba people. Also,visitors can marvel at Maharero Day; it’s a traditional festival for celebrating heroes. Lastly, Oshifima is the Namibian traditional food you can enjoy with vegetables/ meat stew. The key ingredient is the Millet floor."
+        },
+        {
+            "country": "Niger",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Niger1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Niger2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Niger3.jpg",
+            "description": "Niger is one of the most scenic places in Africa. It's home to a fraction of the Sahara desert and a vast range of wildlife. Further, this country is renowned for its famous tribal festivals on the continent. It’s a colorful event with joy and merriment stirred by traditional music, cuisines, games, outfit, and dances.Speaking of cuisines, get a plate of Djerma, the national cuisine. It comprises stewed chicken and peanut prepared in Niger traditional style. Boasting the beauty of Sahara deserts, there are scenic landscapes that span beyond the limit of your eyes. Also, you can encounter baboons and elephants when roaming this dessert. Other great places include Niger National Park and Museum. Historians will love the visit to Agadez, a UNESCO site and a historic city. And it’s here where you will find the prominent Grand Mosque d’Agadez. It’s ranked as the world’s tallest mud-brick structure. Lastly, stop by Niamey, the country’s capital, for souvenir shopping, and witness the famous camel race."
+        },
+        {
+            "country": "Nigeria",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Nigeria1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Nigeria2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Nigeria3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/Nigeria4.jpg",
+            "image5": "http://virtualtravel.tv/ZImages/Nigeria5.jpg",
+            "description": "Lying along the Gulf of Guinea, Nigeria is a startling paradise. Owing to its size, it has tons of surprises in store. From sprawling large cities to beautiful countryside, it’s a gem that awaits your exploration.Further, Nigeria is a diverse country with tourist attractions cutting across all sectors. There are great game reserves and national parks like Yankari Game Reserve, Kainji national Park, and Okumu national park. And each one offers a unique ambiance and animal collections. If you are here for leisure and relaxation, Tarkwa Bay Beach is an exemplary place. Cultural and historical visitors on the other hand will love the views at Osun Sacred Groove and Kano City Walls respectively. And for a taste of Natural wonders, sites like Olumo rock, Zuma rocks also cultural, Ikogosi cold/warm spring are breathtaking.Like most African countries, Nigeria has several cultural festivals. However, the renowned ones include the Yam festival, Felabration, Africa International Film festival, and Book festivals. Lastly, Jollof Rice is the best dish to mark your visit to Nigeria."
+        },
+        {
+            "country": "REPUBLIC OF CONGO",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/republic-of-congo1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/republic-of-congo2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Two-amicable-elephant-playing-in-the-water-collect-water-in-the-trunk-Nouabal-Ndoki-National-Park-Re.jpg",
+            "description": "The Republic of Congo, found in west-central Africa, is often called Congo. Its capital is Brazzaville, the biggest city in the country. It shares a border with its neighboring country Democratic Republic of Congo which capital is Kinshasa.Brazzaville, the Republic of Congo's capital, is located on the Congo River with 4 million people. The Congo River, also called the Zaire River, is one of the largest rivers in the world and a tourist attraction center.The official language in Congo is French and is the cheapest place in Africa to see nature and wildlife.The famous places to go when visiting the Congo are Musee Cercle Africain (History of Congo Museum),Musee National du Congo (National Museum of Congo), Nouable- Ndoki National Park (Wildlife Areas).And the oldest national park in Africa is Vironga National Park in Congo, filled with gorillas, lions,elephants, and many animals.The Republic of Congo is rich in natural resources like oil, potash, zinc, wood, copper, and gold, which exports in large quantities to other countries.The Republic of Congo loves all its cultures, from traditional arts, painting, sculpture, music, and dance.Music is an essential part of the Congo, and its influence on Congo music is known around sub-Saharan Africa.The people of Congo can't do without maize and cassava, and their most popular foods include manioc,Fufu, Safou, Saltfish, Saka Sako, Goat stew, and plantain. The most popular drink in Congo is palm wine."
+        },
+        {
+            "country": "Rwanda",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Rwanda1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Rwanda2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Rwanda3.jpg",
+            "description": "Rwanda is an African country located in the east-central of the continent and surrounded by Burundi,Congo, Tanzania, and Uganda. Rwanda is covered with deep valleys and steep mountains. It's widely known for its beautiful and  scenery. It is popularly referred to as 'le pays des mille collines,' meaning 'Land of a thousand hills.' Rwanda's capital is Kigali, and it's located in the middle of the country at Ruganwa River.Rwanda is famous for its natural wonder sites like the Rolling Hills, Lake Kivu, Nyungwe Rainforest,Akagera National Park, Volcanoes National Park (Rwanda’s undisputed national treasure) known for its resident gorillas, Kigali Genocide Memorial, King's Palace Museum, and Ethnographic Museum. Rwanda's famous cuisines are Ugali (maize porridge), Ibihaza (boiled pumpkin mixed with beans),Isombe (mashed cassava leaves with dried fish), and Matolie (Baked or steamed plantains). The most popular beverage drink is tea (icyayi in Kinyarwanda, sometimes referred to by the Swahili name chai).Most people brew their beer and alcoholic beverages in Rwanda, such as Ikigage, Urwagwa, and Ubuki.Rwanda hosts several traditional events and festivals like the Kwita Izina (popularly known as Gorilla Naming), Tour du Rwanda, Kigali International Peace Marathon, FESPAD, Rwanda Film Festival."
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Sao-Tome-and-Principe1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Sao-Tome-and-Principe2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Sao-Tome-and-Principe3.jpg",
+            "description": "Sao Tome and Principe is an African country located in the central part of the continent, which is found on the Equator in the Gulf of Guinea. The country possesses two significant islands: Sao Tome and Principe and lots of rocky islets, including Rolas south of Sao Tome island and Pedras, Tinhosas, and Caroco, south of Principe. The island nation shares maritime borders with Gabon, Equatorial Guinea,and Nigeria.Sao Tome and Principe are filled with many beaches and historical landmarks like the Obo Natural Park,Il’heu Das Rolas, Pico Cao Grande, Lagoa Azul, Praia Jale, Pico Mocambo, Museu Nacional De Sao Tome, And Principe, Praia Micondo, and Watch Whales.The Santomeans have rich cuisines. Their signature dish is called calulú, and most of their food contains fish (grelhado) either grilled, baked, or lesser degree cooked/boiled, banana coulda(cooked banana),Beans (feijão), and rice (arroz). The country's beer is Rosema or Nacional, while the country's drink is Palm Wine (Vinho de Palma or vim pema).There are several festivals or events hosted in Sao Tome and Principe like the King's Amador Day,Liberty Martyr's Day, Príncipe Island Discover day, Nossa Senhora da Graça Festivity, Neves Festivity,Nossa Senhora de Fátima Festivity, and São Tomé Island Discovered Day."
+        },
+        {
+            "country": "Senegal",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Senegal1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Senegal2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Senegal3.jpg",
+            "description": "Senegal is found in the western part of Africa and has several airs and maritime travel routes. It is popularly called the “Gateway to Africa.” Senegal is located at an ecological boundary covered with oceanfront, tropical rainforest, and semiarid grassland; all these diverse environments beautified the country with different types of plant and animal species. The country's national symbols (the baobab tree and the lion) were selected based on the country's rich natural heritage.Senegal possesses many UNESCO World Heritage Sites like the Niokolo-Koba National Park, the Island Of Goree, Island Of Saint Louis, Saloum Delta, Stone Circles of Senegambia, and the Djoudj National Bird Sanctuary.Senegalese cuisine boasts of the richest cuisines in West Africa. Most of its cuisines are influenced by Vietnam, Portugal, the Middle East, France, and the Americas. The famous dishes in Senegal are Thieboudienne, Chicken Yassa, Caldou, Bassi Salte, Mafe, Lakhou Bissap, Firire, DOMODA, Pastels while the famous drink in Senegal is Bissap. This sweet juice is made from hibiscus flowers, sugar,water, mint, or orange blossom. Other drinks include Castel Beer, Ataya, Café Touba, and Palm Wine.Traditional festivals and events held in Senegal are Abéné festival, Dakar big festival, the festival of the king in Oussouye, Le Fanal, exhibition, and Gorèe island."
+        },
+        {
+            "country": "Seychelles",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Seychelles1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Seychelles2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Seychelles3.jpg",
+            "description": "Seychelles, an African country, is full of beautiful islands in the fine waters of the Indian Ocean in East Africa. The country’s capital is Victoria and it’s a member of the United Nations, Commonwealth Nations,and African Union.Seychelles' official language is English with French and Seychellois Creole (National language). The country is famous for vacation, honeymoon spot aside from this. It has beautiful nature and is rich in culture. The country's culture is a mix of French, British and African cultures.There are many places to visit in Seychelles, from the warm waters to the wildlife, praslin island, and the local markets. Popular things to do in Seychelles include hiking on the mountains, enjoying the beautiful beaches, rock climbing, and eating the sweet Créole cuisine.The popular drinks in Seychellois include lemon mixture with mint, kala, which is then fermented coconut juice, Boca, the fermented sugar cane juice with tea, and coffee drinks.Seychelles national foods is a mixture of French, Indian, Chinese, and English foods, but French was the first country to influence Seychelles cuisine.Popular foods in Seychelles include Poison Ek Diri, rice with fish, Bourgeois, Chutney, Bringel with a bowl of fruit in each order."
+        },
+        {
+            "country": "Sierrra Leone",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Sierra-Leone1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Africa-Sierra-Leone-Freetown-Peninsula-Banana-Islands-Ricketts-Harbour.jpg"
+        },
+        {
+            "country": "Somalia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/somalia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/somalia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/somalia3",
+            "image4": "http://virtualtravel.tv/ZImages/Netzgiraffe-Giraffa-camelopardalis-reticulata-Samburu-National-Reserve-Kenia-Ostafrika.jpg",
+            "image5": "http://virtualtravel.tv/ZImages/Somalia5.jpg",
+            "image6": "http://virtualtravel.tv/ZImages/Somalia6.jpg"
+        },
+        {
+            "country": "South Africa",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/African-landscape-with-gazelles-Amboseli-Kenya.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/south-africa3.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Iguazu-Falls-or-Iguassu-Falls-in-Brazil-Beautiful-Cascade-of-waterfalls-with-clouds-and-jungle.jpg"
+        },
+        {
+            "country": "South Sudan",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/South-Sudan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/sudd-sudan.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/sudd-sudan-2.jpg"
+        },
+        {
+            "country": "Tanzania",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Tanzania1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Tanzania2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Tanzania3.jpg",
+            "description": "Tanzania is the biggest country in East Africa, bordered by eight countries: Zambia, Malawi, the Democratic Republic of Congo, Mozambique, Kenya, Rwanda, Uganda, and the Indian ocean.Tanzania has many islands, wildlife adventures, national parks, and beautiful attractions to beckon in this country, especially the incredible beaches of Zanzibar, which are the most popular things to experience while in this country.The most popular places people visit are Mount Kilimanjaro National Park, Africa's highest mountain. It is different from all other parks in Tanzania because people experience wildlife and stand on top of the beautiful mountain in Africa and enjoy this scenario.Another place is the Serengeti National Park, the second-largest park in Tanzania after Mount Kilimanjaro, which attracts many tourists yearly because of the animals passing around this park and living there. You also get to enjoy the most natural wildlife ever and enjoy nature for a minute.This country also has other parks like Lake Manyara National Park, Olduvai Gorge Park, Tarangire National Park to experience more wildlife. Aside from all these parks, there is the Island of Zanzibar, also known as Unguja, known for its beautiful beaches globally.The popular foods in Tanzania are Mchuzi wa samaki, Wali was Nazi, Chipsi mayai, and Ndizi na nyama.Living in this country is experiencing a holiday every day."
+        },
+        {
+            "country": "Togo",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/togo1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/togo2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/togo3.jpg",
+            "description": "Located in West Africa around countries like Benin and Ghana, Togo has been getting a lot more attention as a tourist destination. What was once a relatively unknown country has started seeing more of an upward trend in visits from foreign countries.Although Togo has only a couple hundred miles of coastline, it has some of the most beautiful beaches on the continent. Everything from white sand to the light blue water make it a tropical paradise. Also,remember when we said that tourism is increasing, but isn't quite there yet? So, there's a good chance you won't be on a crowded beach. Also,if you show up early enough, you may even have it all to yourself.Also, a person can't have a vacation in Togo without visiting the capital city of Lome. This is where the country comes to life. There are stores selling various crafts and homemade art, museums showcasing everything from West African Jewelery to masks and musical instruments, and restaurants that provide some of the best food found anywhere in Africa.Visitors can also get out and visit Fazao-Malfakassa National Park,which is situated on the western border with Ghana. From primates to incredible flora, it makes for a great day trip, perfect for hiking."
+        },
+        {
+            "country": "TUNISIA",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Tunisia.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Tunisia1.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Tunisia2.jpg",
+            "description": "Tunisia, officially known as the Republic of Tunisia, is located in Northern Africa, bounded to the southwest by Libya, Algeria's west, and the east and north is the Mediterranean Sea.Tunisia's largest city is Tunis, and their official language is Arabic; however, some natives speak Tunisian Arabic, Berber, and French. The nation generally practices Islam.Tunisia is one of the most visited countries in Africa because of the attractive areas for tourists. The famous places in the country are the ancient ruins of Carthage, the cosmopolitan capital city of Tunis,resorts outside Monastir, the Muslim and Jewish quarters of Djerba.The country is also known for its sunny weather and beautiful beaches to enjoy the luxury of this country.It serves as a home to part of the UNESCO World Heritage Sites.The festivals that are celebrated in Tunisia are mainly on crafts, music, and culture. Examples includes the Tunisian Medina Festival, the festival of the oases of a mountain in tamerza, the festival of the purebred (Arabian horse of maknassy), International festival of Carthage and Hammamet, and Tozeur oasis festival.Tunisia is also known for its excellent foods and drinks. Some popular ones are Brik, couscous, Ojja,Harissa, and yoyos (Traditional Desserts), while the drinks are mint tea, coffee, and traditional alcoholic wine."
+        },
+        {
+            "country": "Uganda",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Uganda1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Uganda2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Uganda3.jpg",
+            "description": "Uganda is known officially as the Republic of Uganda in East Africa, which shares a border to the east by Kenya, the West by the Democratic Republic of Congo, the north by South Sudan, and the south by Tanzania. The capital of Uganda is Kampala which is the largest city in the country.The official languages in Uganda are English and Swahili (National language). If you're a traveler with an expensive taste and a low budget, Uganda is the best country to go to because the cost of living is cheaper than that of its neighboring countries.The festivals celebrated by the Ugandans are the Nyege Nyege International Music Festival. This festival causes an irresistible urge to dance; some musical acts from all over Africa come to celebrate with them for three days non-stop music celebration and the Kampala Street Carnival, which is celebrated on the streets of Uganda with music.Uganda has many beautiful places for tourists attractions like the Rwenzori mountain, which National Geographic names one of the best places to hike in the world, Mountain Elgon, which has the largest volcano caldera in the world.Africa's largest lake and the second largest river in the world is located in Uganda. It is also a home to different parks like Rwenzori Mountain National Park (a UNESCO World Heritage Site), Mgahinga National Park, with the highest population of gorilla's in the world.The famous foods in Uganda include Matooke, Uganda's national dish, posho, potatoes, and chapati. Ugandans famous drink is Waragi which is sold in Uganda and its borders, bell lager, Nile lager, pombe, and lubisi."
+        },
+        {
+            "country": "Zambia",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Zambia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Zambia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Zambia3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/Zambia4.jpg",
+            "description": "Zambia, also known as the Republic of Zambia, is located in East Africa, which shares a border to Malawi by East, Angola to the west, and the Democratic Republic of Congo to the north.Zambia Capital city is Lusaka, and their official language is English, with other national languages in the country.Zambia got its name after the fourth-biggest river in Africa, the Zambezi after Niger, Nile, and Congo rivers.The country contains beautiful wildlife, forestry, natural resources, and warm waters to make you feel special in this country.Zambia is a large country, and more than half of the countries are made up of national parks to behold the beauty of nature.Festivals held in Zambia include Kuomboka, the most famous festival in the country, Likumbi Lya Mize, N'cwala, Umutomboko, Chakwela Mukumbi, and Ukusefya Pa Ngwena festivals which are usually full of music and dance.Popular places in Zambia include Victoria falls, twice the size of Niagara falls, and has a UNESCO heritage tag; Kitwe, Kasanka national park, Livingstone park, Nsumbu National Parks are all places to experience nature and wildlife.Popular foods in Zambia include chibwabwa, curried Gazelle, and ifisashi, while popular drinks include Munkoyo, which is Zambians favorite non-alcoholic drink in the country, Mosi, the local beer, and Chibuku."
+        },
+        {
+            "country": "Zimbabwe",
+            "region": "africa",
+            "image1": "http://virtualtravel.tv/ZImages/Zimbabwe1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Zimbabwe2.jpg",
+            "description": "Zimbabwe, a county located in southeast Africa, shares its border to the East by Mozambique and to the West by Botswana. The only thing that separates Zambia and Zimbabwe is the Zambezi River. The languages spoken in the country are Shona, English, and Ndebele.UNESCO acknowledges the Zimbabwe National Monument official website as a world heritage site. This is probably because the nation is blessed with many natural resources like coal, chromium, gold, ore,and iron.Festivals held in Zimbabwe are Shoko (music festival), Harare international food festival where traditional foods are eaten, and Jikinya traditional dance festival.Popular places to visit in Zimbabwe include Victoria Falls National Park (which looks beautiful even in the dry season), Lion and Cheetah Park (which consist of only lions and cheetah according to its name).Other interesting sites are the Victoria Falls Bridge, Matobo National Park ( a world heritage site),Mukubisi Woodlands, Kuimba Shiri Bird Sanctuary, and Thetford Game reserve full of Nature and wildlife.Popular foods in Zimbabwe include Maizemeal or Sadza, Bota, Traditional Ndebele dish, Mutakura,Magogoya, Massi, and Umxhanxa. Zimbabweans generally likes beer such as Whawha(a taditional beer),Zambezi(Zimbabwe's national beer)."
+        }
+    ]
+}

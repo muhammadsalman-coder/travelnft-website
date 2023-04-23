@@ -1,0 +1,180 @@
+{
+    "_id": {
+        "$oid": "62012dc2aeb2762501715e6f"
+    },
+    "region": "oceania",
+    "image1": "http://virtualtravel.tv/ZImages/Oceania1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/Oceania2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/Oceania3.jpg",
+    "countries": [
+        {
+            "country": "American Samoa",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/American-Samoa1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/American-Samoa2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/American-Samoa3.jpg",
+            "description": "Truth be told, American Samoa is not a known as a popular tourist destination. Most people that visit are usually only passing through as a day stop on a cruise. However, there is so much more to this southern Pacific island than just grabbing a few trinkets and souvenirs. The territory is made up of five islands: Tutuila, Aunu'u, Ta'u, Ofu, and Olosega. Each of them are worth visiting. Most people that visit frequent the island of Tutuila where the international airport is located. But, the National Park of American Samoa is a truly unique and amazing place that covers land on Tutuila, Ofu, and Ta'u. Aside from its amazing  landscape and array of wildlife, it is unique because the land isn't federally owned. Rather, it is leased from the families who own it. It not only promotes a healthy relationship with the locals and the federal government, it preserves the incredible Samoan heritage that has existed here for hundreds of years. So, don't come looking for five star resorts and bustling cities. Rather, be ready for a calm, low-key visit that only a quaint island territory can offer."
+        },
+        {
+            "country": "Australia",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Australia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Australia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Australia3.jpg",
+            "description": "The land down under is one of the most popular tourist destinations in the entire world. The world's largest island is also a country, and its own continent. In a place so large, it can be incredibly difficult to know what to see or do. But, it's not for a lack of options. Australia is rich with history, being one of the oldest Aboriginal cultures in the world. The vast majority of the country's population is spread amongst the thousands of miles of coastline. However, should one venture deeper towards the interior of the island, they'll be able to see more of a dichotomy of cultures; a unique mix of modern and Aboriginal traditions. If you visit Kakadu National Park in the Northern Territory, you can see some amazing rock art that dates back more than 20,000 years. It is also a great place to see a wide variety of wildlife and landscapes like floodplanes. For something that's a little more “touristy”, look no further than the bigger cities like Melbourne or Sydney. Melbourne has some amazing sites such as the Royal Botanic Gardens Victoria, the Melbourne Cricket Ground, the National Gallery of Victoria, and the Eureka Skydeck. For those who decide to hang out in Sydney instead, you obviously can check out the world famous Sydney Opera House, check out one of the near 1,000 stalls along Paddy's Market, or simply enjoy a day at Bondi Beach."
+        },
+        {
+            "country": "Cook Islands",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Cook-Islands1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Cook-Islands2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Cook-Islands3.jpg",
+            "description": "On the other side of the spectrum from a place like American Samoa,you have the Cook Islands, a place that most would consider a tropical paradise. Although the 15 islands that make of this chain have close ties to the country of New Zealand, they have their own distinct Polynesian culture. So, for those that visit, be ready for a warm welcome from some friendly locals. If you're lucky, you may even witness a traditional Haka. As soon as you step foot on the island, you're immediately aware of why this is a castaway's dream. Turquoise waters, coconut palms, and  offee plants are in every direction. Yo can even see Rarotonga in thedistance, the largest volcano in the country.Some of the most frequented activities besides being a beach bum are kayaking, snorkeling, fishing, and hiking. Take a cultural tour in the Village of Te Vara Nui, or go wadding in the turquoise waters of Aitutaki Lagoon. There are on bad options."
+        },
+        {
+            "country": "Fiji",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Fiji1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Fiji2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Fiji3.jpg",
+            "description": "Just off of Australia's east coast lies the island nation of Fiji, one of the most popular tropical travel destinations anywhere in the world. The island nation is comprised of over 300 islands and is a place where people of all tastes can find exactly what they're looking for. Fiji is much more than a honeymoon destination or a weekend getaway. There is a ton of culture to appreciate here. For starters, Fijians are considered to be the happiest people on the planet. They're always excited to show people their cultures and customs. From Kava ceremonies and fire-walking to the Hindu Snake Temple and Spice Market, visitors will feel like locals in no time whatsoever. On top of these things, there is no shortage of breathtaking scenery, both on land and sea, to enjoy. Bouma National Heritage Park is one of the most spectacular nature reserves in any of the southern Pacific nations. Here, you can snorkel in crystal clear water, take a relaxing walk on the beach, or even hike your way to one of the many waterfalls. If you're lucky, you'll catch a glimpse of some of the 150 species of birds that call Fiji home."
+        },
+        {
+            "country": "French Polynesia",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/French-Polynesia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/French-Polynesia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/French-Polynesia3.jpg",
+            "description": "To the average person, the country of French Polynesia doesn't usually conjure up any thoughts other than a 10  th grade world geography class.  Bora Bora on the other hand...now that's a name that everyone recognizes. Well, Bora Bora is actually one of the islands that make up the islands of French Polynesia. There's no getting around what makes this island so popular to tourists. Its beauty is unmistakable and nearly unmatched by any other island in the world. The beautiful blue waters wash up to shores that are mostly surrounded by forests. In many places, these forests suddenly rise up, turning into mountains with near vertical cliffs. Although it is an official territory of France, the country has some of its own self-governing powers, including its own president. France mostly controls things like currency, foreign policy, and a few other things. Visitors will be able to pick up on the French influences as well as see places where the French and English battled over the territory for years. Whether you're looking for something similar to a resort, or trying to just enjoy a scenic get away, French Polynesia will definitely not disappoint."
+        },
+        {
+            "country": "Guam",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Guam1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Guam2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Guam3.jpg",
+            "description": "Guam; it's one of American's territories that is either the butt of an obscure joke or some reference to World War II. However, for those who are looking for a great destination in the Pacific, Guam should  definitely be on your list of places to consider. When stacked against the other tropical islands in the Pacific, it definitely holds its own. One of the biggest traditions on the island is people getting together for great times, great food, and great music. Nearly every week, there will be some sort of party or fiesta that revolves around great food and some form of entertainment. Best of all, they're all open invitation. So, be ready for some food, fun, and great fellowship with the island's residents. When you're not eating and partying like crazy, you'll want to get out and experience everything else that Guam has to offer. The beaches are among the best in the world, allowing for spectacular, unobstructed views of the sunrise and sunsets.. But, for divers as well, there are plenty of reefs and shipwrecks to explore as well. Whether you're there for the fun, the atmosphere, or even to experience some of the amazing history, Guam is an absolutely incredible place to spend what will end up being an unforgettable vacation."
+        },
+        {
+            "country": "Kiribati",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Kiribati1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Kiribati2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Kiribati3.jpg",
+            "description": "In terms of receiving attention, Kiribati is one of the lesser-visited destinations of any of the southern Pacific nations. A lot of this has to do with the fact that the of the 32 islands that make up the country, only 20 of them are inhabited, and even though the area is small, the islands are scattered widely throughout the ocean. Don't let this hold you back though. There is enough here to keep any tourist entertained and occupied for months. The population of Kiribati is just over 100,000. However, it has its own unique culture and language. It is believed that these have survived for so long due to the nation's isolation. But, even though it's quite difficult to get to, there is still plenty to do. To really take in the culture, many tourists take village tours, taking in the local customs. History buffs will be interested in South Tarawa where one of the worst battles were fought during World War II. Finally, outdoorsmen will be able to takeadvantage of some incredible diving and snorkeling sites, or stay on  land and do some bird watching."
+        },
+        {
+            "country": "Marshall Islands",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Marshall-Islands1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Marshall-Islands2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Marshall-Islands3.jpg",
+            "description": "Sometimes when a person is traveling, they're looking for something that really stands out. We'll start off with a bang...literally. From 1946 to 1958, the Marshall Islands served as the place where the United States would test 67 of its nuclear warheads, including the world's first hydrogen bomb. How many people can say they've been to a place where a nuclear bomb had exploded? Now, we we'll go ahead and answer your next question. Yes, it's safe to travel there now. As a matter of fact, it's quite easy. The Marshall Islands is under the Compact of Free Association, which means that United States citizens do not need a visa when they go to visit. Once you're there though, you'll be among an exclusive group of people as the Marshall Islands are one of the least visited countries inn the world, averaging around 5,000 people per year. Here's what this means for a tourist though. You're going to have a very quiet and peaceful time, not having to jostle for positions with other visitors. Those who visit between May and October will be able to take advantage of some of the best fishing in the world with over 1,000 different species calling the waters around the island home. It doesn't matter if you're going deep-sea or simply fishing from the shore. It will be unlike any other fishing you've ever done. If you're feeling more adventurous, book a charter out to the ship graveyard from the various ships that were sunk during the various nuclear tests. It's a breathtaking underwater seascape that is unmatched by any other dive site in the world."
+        },
+        {
+            "country": "Micronesia",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Micronesia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Micronesia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Micronesia3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/Micronesia4.jpg",
+            "description": "One of the most expansive chain island nations in the Pacific Ocean is Micronesia, a sprawling island nation that consists of 607 islands spread across man miles of ocean. This is an especially awesome thing for someone looking to visit as it means that there's an incredibly wide variety of things to do. It doesn't take long to see that Micronesia is a melting pot of inhabitants from various different cultures. The importance of costumes in many of the various cultures is very high as the people take great pride in showcasing their unique traits. They are very warm, kind-hearted, and welcoming to tourists. So, don't be surprised if you get drawn into the warmth of the people. Who knows. You may even make some friends while you're there. If you are strong enough to break away from the allure of the people and venture out to see the land, there are a few places you need to see.  Diving and history enthusiasts will enjoy Eten Island, a place used by the Japanese during World War II. Now, you can see tanks and other structures submerged in the water. If you want to enjoy city life and shopping, go to the capital city of Palikir. Packed full of shopping, entertainment, and plenty of places to be pampered. Lastly, for those that want to escape everything, go to Pakin Atoll where the views are spectacular and only 100 people live. It is where seclusion suddenly becomes soothing."
+        },
+        {
+            "country": "Nauru",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Nauru1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Nauru2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Nauru3.jpg",
+            "description": "A vast majority of other island states in the Pacific are dependent on other countries for things such as stable currencies and security among other things. Nauru is quite different. It is completely independent country; the third-smallest independent republic in the entire world. So, for those looking to check it out, you'll need a visa. The island is actually small enough that things are mostly within walking distance. If you can't walk there, you'll need to find a place to rent a bike because there's no public transportation. This adds a very quaint and homey feel to the Nauru's ambiance. Even though it may be small though Nauru is full of things to see and do. For those that love things like swimming, fishing, diving, and other water sports, you'll have your hands full. The island is surrounded by a colorful and vibrant coral reef. Spending time on the island itself comes with just as many activities. You can hike some of its picturesque green areas, or even try to walk the entire circumference of the island, which is only 18km. On your evenings in, you can enjoy shopping, which is avast array of arts and craft shops, making every dollar spent a contribution to the local economy."
+        },
+        {
+            "country": "New Caledonia",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/New-Caledonia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/New-Caledonia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/New-Caledonia3.jpg",
+            "description": "UNESCO stands for the United Nations Educational, Scientific and Cultural Organization and spread across the planet, there are sites that they have designated as World Heritage Sites. These places are known for having cultural, historical, scientific, or some other form of major significance. One of these World Heritage Sites can be found on the Pacific island of New Caledonia. New Caledonia has over 9,000 square miles of lagoons. So, you know that being on the water is one of the biggest parts of the local lifestyle.But, even this isn't what brought the attention of UNESCO. Their designation was given to the large coral barrier reef that stretches for nearly 1,600 kilometers. IT is the second longest in the world after the Great Barrier Reef in Australia. Also part of the heritage site is the expansive mangroves spread throughout the territory. nother thing that gives New Caledonia its amazing charm is the abundance of culture that you will see here. Art is one place where the culture especially shines. Pretty much everywhere you look, you will see painters, dancers, actors, singers, and all other sorts of artists. You can choose to visit some of the various art galleries or take part in any of the festivals that occur a few times throughout the year. It is a bustling place leaves everyone with a greater sense of appreciation for its people."
+        },
+        {
+            "country": "New Zealand",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/New-Zealand1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/New-Zealand2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/New-Zealand3.jpg",
+            "description": "Seldom is a conversation ever had about the most beautiful places on Earth and the country of New Zealand is not brought up. Although it's not a large country by any means, it boasts a wide variety of geographic features, from towering mountains to low, grassy plains. Many of these places can be seen in various movies including Peter Jackson's Lord of the Rings trilogy. To put it simply, it is probably the place that Bob Ross dreamed about every night before he painted. Adding even more flare to the already amazing country, New Zealand is home to the Maori culture, one of the most unique cultures found anywhere in the world. Once known as being some of the fiercest warriors in the world, they now carry on their heritage by continuing to perform their ceremonial “hakas”. These were dances and chants that their warriors would perform in front of their enemies before going into battle. Now though, these dances performed as one of the highest honors anyone could get. After you've taken a tour of the countryside and enjoyed the traditions of the locals, visitors have an endless list of things to do. Wine aficionados can check out some of the world famous vineyards. Those who enjoy a touch of the eclectic will love some of the seasonal festivals such as the Queenstown Winter Festival and the annual Easter Jazz Festival. Overall though, New Zealand is one of the wealthiest and most developed nations in the region. It's a perfect blend of the modern and the traditional. No matter what a person's looking for in a vacation, they can surely find it here."
+        },
+        {
+            "country": "Niue",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Niue1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Niue2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Niue3.jpg",
+            "description": "Niue is the Pacific island you've probably never heard of. It is a place  where the earths beauty is only matched by the beauty of humanity. Okay, we understand that's a very poetic description that boarders on the line of corny, but trust us when we tell you that we aren't exactly exaggerating about that. Let's start with the island's beauty. When you think of Pacific islands, you usually picture sandy beaches and coconut palm trees. That's not the case on Niue. Here, instead of beaches, you have limestone cliffs that drop into chasms of turquoise waters. Should you explore these chasms by boat, there's a good chance you'll run across a number of caves and coral formations. It's a unique beauty that can't be found anywhere else in the area. So, the island is beautiful. But, what about that beautiful humanity we were talking about? Well, Niue is considered to be one of the safest places on Earth. Here, residents watch out for each other as if they were family. Cars are regularly left unlocked. There's even a place  called Washaway Bar and Cafe which runs on an honor system. Customers simply write down their orders in a book, put their money in the register themselves, and grab what they paid for. It's quiet, it's quaint, and with only one flight that comes in per week, it isn't crowded."
+        },
+        {
+            "country": "Norfolk Island",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Norfolk-Island1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Norfolk-Island2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Norfolk-Island3.jpg",
+            "description": "Many of the southern Pacific paradises have more going for them besides their beauty. Norfolk Island is one of them, having a devious history of being a settlement of convicts. Twice in history, at the end of the 1700s and then again in the mid 1800s, it served as a penal colony, housing convicts from New South Wales. Today though, the island reflects much more than that. It is full of incredible views, incredible people, and incredible adventures. For starters, foodies will especially appreciate Norfolk Island. All fruit and vegetables are grown on the island. When they're in season, the fruits and veggies are usually harvested and put on your plate in the very same day. It's the same for things such as fish and beef, which are also locally raised. So, whether you appreciate a sweet treat or a savory meal, you can definitely find it here.The landscape here is actually very different than most of the other tropical islands. On Norfolk Island, you'll be able to see green grasslands with towering Norfolk Pine trees dotting the land. There is a species of rare green parrots that live on the island and frequent these trees. So, keep your eyes open, or join one of the many bird-watching tours and see if you can spot this majestic fowl."
+        },
+        {
+            "country": "Palau",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Palau1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Palau2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Palau3.jpg",
+            "description": "It doesn't matter how much any of us try to spin things. History, culture, and all of the other intrinsic things aside, sometimes people just love the tropical life. They want that typical island getaway. This is where Palau  comes in, an incredible tropical paradise for those who are looking for a great place to swim, surf, or tan on the beach. It's a wondrous place with an inescapable beauty; a beauty that is the pride of the locals who take environmental conservation extremely seriously. The climate here is pleasant pretty much year round. Average temperatures are around 82 degrees Fahrenheit, it rains about 150 inches per year, and there are very low chances of any type of typhoon coming through the area. So, if you're looking for a tropical feel, this is perfect. Palau also grows a number of tropical fruits on the island, from pineapple and coconut to papaya and even some cocoa. A person doesn't need to look far to have some of the finest ingredients on his plate or in his drink. Overall though, any visitors are sure to be captured by an island that takes its upkeep very seriously. This is reflective of their belief that being good stewards of the land and its resources is the key to happiness for all who set foot there. We couldn't agree more."
+        },
+        {
+            "country": "Papua New Guinea",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Papua-New-Guinea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Papua-New-Guinea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Papua-New-Guinea3.jpg",
+            "description": "On the entire other end of the spectrum from tropical, “vacationesque”  islands, we have Papua New Guinea, one of the most wild and untamed lands in the entire world. For as much as people fly over the land on their way to more popular destinations like Indonesia or Australia, they  end to forget that this volcanic country is largely unexplored, and that'sa fact. No one alive on Earth can speak truly for what lies in some of the deepest parts of Papua New Guinea's forests. Traveling outside of any larger cities, you'll come face to face with a largely tribal population. Ornate costumes are coupled with face paintings. Small, skinny canoes go hand in hand with hand-woven fish traps that are used to catch the evening's meals. Most of these tribes are friendly and curious of outsiders. However, should you decide to go exploring, you may end up encountering an uncontacted tribe; people who have never seen a white person, or a cell phone, or even a mirror. This is a very unlikely chance, but it illustrates how wild the country really is. Sticking with a more touristy feel though, visitors can enjoy everything from hiking an active volcano to diving with some of the ocean's most colorful fish. It just depends on what you're in the mood for though."
+        },
+        {
+            "country": "Samoa",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Samoa1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Samoa2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Samoa3.jpg",
+            "description": "Samoa is a country that people seem to know of, but they don't really know about. They will be able to tell you that it's in the Pacific Ocean for sure. They may even go as far as to say that their culture has reached as far east as Hawaii. But past that, people usually draw a blank. Now's the time to study up and start planning your trip. Only a short flight from its sister island, American Samoa, Samoa is definitely a hiker's paradise, which is a great breath of fresh air as  early every other Pacific island is meant for beach-goers and divers.Taking a day to hike through the mountainous forests is one thing. It's a   different thing to come across a huge cave pool with crystal  water. Places like the Piula Cave Pool are fed by fresh water springs and are totally amazing to swim in after a hike. After a long day though, it's definitely recommended to check out some of the local traditions, which the residents are more than eager to share with you. The Polynesian culture here is evident. Samoans enjoy singing, dancing and....playing with fire. It's a showcase that will be remembered for the rest of your life."
+        },
+        {
+            "country": "Solomon Islands",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Solomon-Islands1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Solomon-Islands2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Solomon-Islands3.jpg",
+            "description": "One of the true hidden gems of the Southern Pacific are the Solomon Islands. It's a place that most people skip over in lieu of some of the more popular places like Fiji and Bora Bora. However, skipping any one of these 900+ islands would be a big mistake. It's only a three hour flight from Australia to get to the Solomon Island.Ideally, that would make it a great destination, right? Well, the islands haven't been catering to more commercial tourists. Because of this, the Solomons haven't been overrun with many tourists. Much of the nature and landscape is completely untouched. Many of the villages are set up the way they have been for hundreds of years. The Solomon Islands is also a great destination for the adventurous diver. Now, we aren't just talking about the typical fish-spotting dives.We are talking about making discoveries. In a chain of over 900 islands, new things are being found all the time. Within the last couple of years, at least three World War 2 shipwrecks have been found, and there are probably more. When you're diving in the Solomon Islands, there's always something new and incredible to discover."
+        },
+        {
+            "country": "Tonga",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Tonga1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Tonga2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Tonga3.jpg",
+            "description": "Do you want to travel to a nice, tropical location in the South Pacific, yet you can't make up your mind what you want to do on your trip? Well then, Tonga is the place for you. It's a Pacific island country that has a wide range of things pretty much year round. One of the most unique things about Tonga is the fact that you can travel to a number of its various islands and feel like you're in a different country, even though you aren't. It's because so many geographical features are vastly different from the other. The Island of 'Eau is a single island with rocky formations and a national park forest. Vava'u is an endless maze of very small islands that seem like labyrinths. Ha'apai is a collection of small islands that are typical coconut palm trees. All of them are Tonga.What truly makes a great vacation though is an ability to have a once in a lifetime experience. Tonga offers that to people. Take snorkeling and swimming as an example. Usually, these activities don't come with much promise of a life-changing event. However, in Tonga, you can swim and dive with humpback whales, manta rays, or even seals. These wild animals have never been in danger around these islands and know to trust people."
+        },
+        {
+            "country": "Vanuatu",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Jungle-Bungalow.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Eton-Beach-on-Efate-Island-Vanuatu-near-Port-Vila-famous-beach-on-the-east-coast.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Wooden-tam-tams-or-split-gongs-sculpted-out-of-tree-trunks-representative-of-the-local-men-s-mage-so.jpg",
+            "description": "Located off the southwestern Pacific Ocean alongside multiple other islands 500 miles west of Fiji, Vanuatu offers waterfalls, jungles, cultural experiences, tropical weather, and fun for all to enjoy. Known for its offering of relaxation, Vanuatu also has plenty of opportunities for adventure. While there is no exact bad time to visit Vanuatu, the best time to consider is between April to August. While on the island, visit famous volcanoes, including Mount Yasur. The volcano is active but accessible. Ensure to keep a lookout for the warning sides while capturing nature from a new point of view. Explore Espiritu Santo, famously known for its white-sand beaches, tribal communities, and blue water. From ziplining to swimming with turtles, there is a fun activity for every day. Taste Vanuatu’s traditional cuisine that is immersed with taro, yams, seafood, coconuts, and bananas. If visiting Vanuatu in the summer, stay around for Fête de la Musique that occurs on June 21st. On this day, performances from professionals and local artists venture into the cities and perform for spectators."
+        },
+        {
+            "country": "Wallis and Futuna ",
+            "region": "Oceania",
+            "image1": "http://virtualtravel.tv/ZImages/Moorish-Idol-Zanclus-cornutus-marine-fish-species-common-inhabitant-of-tropical-to-subtropical-reefs.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Early-morning-and-sunrise-over-Pacific-Ocean-in-Mata-Utu-village-the-capital-of-Wallis-and-Futuna-te.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Wallis-and-Futuna3.jpg",
+            "description": "Head into the Polynesian culture immersed into the volcanic islands of Wallis and Futana. If you love diving, the saltwater of Lalolalo crater lake Northeast of Futana is a must-see. Cheers with the locals over kava, a drink made up of local shrubs. Kava is an island drink commonly used for religious and political purposes. The drink is intended to relax the body. An island famous dish to try is ‘moa’ as in ‘chicken’ in Polynesian. Moa is baked in a banana leaf on the island. Other special dishes are fish or Ika. Join the natives by getting to know the history of the islands through traditional Soakmako. Songs and dances are exchanged during these cultural events telling the story of previous tribal conflicts. Take a relaxing swim on the isolated beaches of Nukuhione and Nukuhifala. These islands are ideal to relax in and are peaceful. Wallis is also known for being a paradise for watersports. Enjoy kayaking, scuba diving, kitesurfing, and more."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "_id": {
+        "$oid": "62012a15aeb27625016bea8e"
+    },
+    "region": "america",
+    "image1": "http://virtualtravel.tv/ZImages/america1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/america2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/america3.jpg",
+    "image4": "http://virtualtravel.tv/ZImages/america4.jpg",
+    "countries": [
+        {
+            "region": "caribbean",
+            "image1": "http://virtualtravel.tv/ZImages/Caribbean1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Caribbean2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Caribbean4.jpg"
+        },
+        {
+            "region": "central-america",
+            "image1": "http://virtualtravel.tv/ZImages/central-america1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/central-america2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/central-america3.jpg"
+        },
+        {
+            "region": "north-america",
+            "image1": "http://virtualtravel.tv/ZImages/North-America1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/North-America2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/North-America3.jpg"
+        },
+        {
+            "region": "south-america",
+            "image1": "http://virtualtravel.tv/ZImages/south-america1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/south-america2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/south-america13.jpg"
+        }
+    ]
+}

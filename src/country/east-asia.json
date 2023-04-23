@@ -1,0 +1,47 @@
+{
+    "_id": {
+        "$oid": "62012d1faeb276250170794b"
+    },
+    "region": "east-asia",
+    "image1": "http://virtualtravel.tv/ZImages/East-Asia1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/East-Asia2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/East-Asia3.jpg",
+    "countries": [
+        {
+            "country": "CHINA",
+            "image1": "http://virtualtravel.tv/ZImages/china1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/China2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/China3.jpg",
+            "image4": "http://virtualtravel.tv/ZImages/China4.jpg",
+            "description": "China is currently experiencing a travel boom, thanks to the ease of restriction of movements in and around the country.The country boasts of the world's most significant number of World Heritage Site. Generally, its tourist resources can be divided into three: historical and custom sites, natural sites,and folk customs.Concerning China's historical and cultural sites, the country has several cultural relics scattered across its cities and towns. One of such sites is the world-renowned Great Wall.The Great Wall is an epitome of beauty and grandeur, built over 2,000 years ago and is still regarded as the 'greatest defense-structure project in the history of human civilization.'Tourists have access to more than ten sections of this wall.Other historical/cultural sites are Silk Road in Gansu, the Shaolin Temple in Henan, the Wudang Mountains in Hubei,etc.China's natural sites are made up of mountains, caves,lakes, valleys, etc., and some of them are: · The Five Sacred Mountains – Mount Hengshan in the north, Mount Hengshan in the south, Mount Tai in the east, Mount Hua in the west, and Mount Song in Central China · Waterfall – Huangguoshu Waterfall · River – The Li River In China, some common folk customs are: 'March Street,'celebrated in honor of the Buddhist Goddess of Mercy suppressing a devil to protect the Bai folks; the Water-Sprinkling Festival.Chinese Cuisine is an important part of their culture, and foreigners should try some of these delicacies while they're visiting: Hotpot, Sichuan Pork, Shrimp with Vermicelli and Garlic, Dumplings, Chow Mein, Peking Duck, Kung Pao Chicken, etc."
+        },
+        {
+            "country": "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA (DPRK)",
+            "image1": "http://virtualtravel.tv/ZImages/Democratic-People-s-Republic-of-Korea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Democratic-People-s-Republic-of-Korea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Democratic-People-s-Republic-of-Korea3.jpg",
+            "description": "Although tourism in The Democratic People's Republic of Korea (North Korea) is strictly managed by the North Korean government, it's no doubt that the country offers some of the best tourist attractions with its natural scenery, pure, rich colors, and quiet beauty.Some of the top attractions in North Korea are Pyongyang Metro, Tower of the Juche Idea, Kim Il-Sung Square,Victorious Fatherland Liberation War Museum, Masikryong Ski Resort, Mount Kungang, and so on.Like every other country, DPRK has its special events and celebrations. One of the major events is the Foundation of the DPRK, celebrated every 9th of September. There are usually lots of street festivities, military parades, fireworks, and lots more on this day. The annual Pyongyang Marathon, Film Festival, and Mass Dance are other major events observed in this nation.While on tour, you might get to enjoy some delectable local cuisines in the country. North Korea is home to meals like Kimchi, Korean BBQ, and Bibimpap, but you are bound to enjoy some special delicacies such as Pyongyang Cold Noodles, Sea Urchin, Pine Mushrooms Talpi, Petrol Clam BBQ, Ostrich BBQ, and lots more."
+        },
+        {
+            "country": "JAPAN",
+            "image1": "http://virtualtravel.tv/ZImages/Japan1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Japan2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Japan3.jpg",
+            "description": "Domestic tourism thrives in Japan much more than international tourism. In fact, domestic tourism plays an essential role in the Japanese economy. However, that's not to say that the country does not accommodate international tourists. No, Japan is also a spot for international tourists, and there are famous attractions sites and places that foreigners can enjoy while visiting.The nation has 21 World Heritage Sites, and some of these sites are Nara, Himeji Castle, and the Historic Monuments of Ancient Kyoto. Other spots that serve as a sight for sore eyes in Japan are: · Mount Fuji · Hiroshima Peace Memorial Park · Imperial Tokyo, etc. · The Island Shrine of Itsukushima, and lots more. There are also ski resorts like Niseko, and tourists can also enjoy Japan's extensive network of hotels and hot springs. Japan also offers a wide range of regional and seasonal dishes. Some of the delicacies you are bound to enjoy are Sushi (one of Japan's best-known food worldwide), Tofu,Udon, Soba, Ramen, Tempura, Sashimi, Curry, Tonkatsu,Okonomiyaki, etc."
+        },
+        {
+            "country": "MONGOLIA",
+            "image1": "http://virtualtravel.tv/ZImages/Mongolia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Mongolia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Mongolia3.jpg",
+            "description": "Mongolia is home to some of the best natural landscapes and awe-inspiring culture and lifestyle, features that tourists should take due advantage of. Although the country is not as commonly visited as other countries worldwide, its government is taking steps to help boost the tourism industry.Due to the predominant scenic natural features in Mongolia,most of its tourist activities include hiking/trekking, climbing,horse riding, bird watching, rafting, camel riding, and motorcycle tours. There's a considerable focus on ecology and wildlife, and a target location is the Gobi Desert. The desert is famous for its numerous native animal species and the presence of fossilized dinosaur eggs and bones.Other points of attraction are Mongolia's lakes, the Four Holy Peaks in Ulaanbaatar, and the Gobi Gurvansaikhan National Park, located in the Umnugobi.The major event celebrated in Mongolia is the famous Naadam, held from July 11 to July 13 to celebrate the Democratic Revolution. Three traditional sports are played during this festival: long-distance horse racing, Mongolian wrestling, and archery. Other important events are Eagle festival, Camel festival, and Nowruz.As Mongolia is a country full of nature and natural things, it's no surprise that its cuisine predominantly consists of meat and dairy products. Some of the dishes that tourists should look out for are: · Khorkhog (Mongolian Barbeque) · Buuz (a kind of dumpling) · Boodog (a traditional roast) · Budaatai khuurga (Mongolian fried rice cooked with shredded beef or lamb) · Airag – drink made from fermented milk of mare."
+        },
+        {
+            "country": "REPUBLIC OF KOREA",
+            "image1": "http://virtualtravel.tv/ZImages/Republic-of-Korea1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Republic-of-Korea2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Republic-of-Korea3.jpg",
+            "description": "The rapid development and advancement of the Republic of Korea (also known as South Korea) have made it one major attraction center for tourists and foreigners. Seoul, the capital city of South Korea, is the initial point of contact for most tourists.Outside of Seoul, other places that are usually visited are the Seorak-San national park, the subtropical Jeju Island, the coastal city of Busan, and the ancient city of Gyeongju.Besides these key areas, other landmarks are the Haeundae and Mallipo beaches, the Hwanseongul and Danyang caves,and the Baekdudaegan peak. Other smaller islands also exist besides the famous Jeju Island.The Cheongdo Bullfighting Festival and the Boryeong Mud Festival are two annual festivals celebrated in some local districts in the Republic of Korea.Although South Korea is widely known for its technology than its delicacies, the country is not without some very lovely dishes of its own, and foreigners should look forward to them.Korean cuisine is usually heavily laced with red pepper, and rice is present at almost every meal. Examples of their meals and drinks are:· Bibimbap · Kimchi · Bulgogi (aka Korean BBQ) · Grilled Galbi · Tteokbokki · Beverages – Soju, Makgeolli, and Ginseng wine."
+        }
+    ]
+}

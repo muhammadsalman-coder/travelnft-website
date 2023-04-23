@@ -1,0 +1,87 @@
+{
+    "_id": {
+        "$oid": "62016c4daeb2762501cae6a3"
+    },
+    "region": "south-east-asia",
+    "image1": "http://virtualtravel.tv/ZImages/South-East-Asia1.jpg",
+    "image2": "http://virtualtravel.tv/ZImages/South-East-Asia2.jpg",
+    "image3": "http://virtualtravel.tv/ZImages/South-East-Asia3.jpg",
+    "countries": [
+        {
+            "country": "Brunei",
+            "image1": "http://virtualtravel.tv/ZImages/brunei1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/brunei2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/brunei3.jpg",
+            "description": "Located in southeast Asia, Brunei is a small country on the island of Borneo.With over 160 kilometers of coastline on the north end of the island of Borneo,this is a very underrated country in terms of tourism and cultural experiences.With low crime rates, plenty of temples, and a fresh jungle, there is a lot to do and see here. One of the shining stars of Brunei is Ulu Temburong National Park where you can hike, swim, and experience the country’s natural beauty.Although small, Brunei is actually a cultural melting pot as Malaysia, Indonesia,Singapore, and other Asian influences all bleed into the cuisine especially. So,you are getting a unique sense of Asian influence that is still different from the other countries in the area. Fried rice and spicy noodles can be found all over the country.Overall, Brunei is a safe, clean way to experience southeast Asia without having to deal with massive hoards of tourists. Plus, the jungle features and tourism scene do a good job of being eco-friendly and preserving the beauty of the natural world."
+        },
+        {
+            "country": "Cambodia",
+            "image1": "http://virtualtravel.tv/ZImages/cambodia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/cambodia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/cambodia3.jpg",
+            "description": "With the classic southeast Asian mix of beaches and jungle, Cambodia is a great destination that is full of character. Every year, millions of outsiders come to experience the elephants, temples, and natural beauty.Angkor National Museum, Angkor Wat, the Cambodian Cultural Village, and so many other attractions make up a vast tourism scene in the country. Because of a large influx in visitors, many organizations within the country focus on ecotourism and sustainability to keep these areas in good condition. Along with Angkor Wat, there is the Ta Prohm Temple that are on the UNESCO World Heritage Site list.One of the best ways to truly get to know a new place is through the cuisine.Some popular examples include Khmer noodles, red curry chicken, and palm sugar stewed beef. Plus, there is a solid nightlife that can connect visitors to the local scene."
+        },
+        {
+            "country": "Indonesia",
+            "image1": "http://virtualtravel.tv/ZImages/Indonesia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Indonesia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Indonesia3.jpg",
+            "description": "With Bali, Jakarta, and Ubud at the forefront of attention, Indonesia is one of southeast Asia’s biggest tourism destinations. With over 17,000 islands making up the country, there are plenty of beach opportunities coupled with the classic jungle that marks this area of the world famous. Indonesia is home to many UNESCO World Heritage Sites with the Borobudur Temple and Komodo National Park being toward the top in terms of popularity. With monkey forests, Hindu temples, tons of hiking, and plenty of beachfront, Indonesia is everything that southeastern Asia is known to be all in one place.  As a place that is affordable to travel to, Indonesia is visitor-friendly, especially in Bali. One of the best affordable aspects is the cuisine. The local dishes of Nasi Goreng, Beef Rendang, and many others will help you get to know the area. Plus, Indonesia has a few lively nightlife scenes that will provide nightly entertainment. So, Indonesia is the place to be when you want the jungle, beach, and so much more all wrapped up together."
+        },
+        {
+            "country": "Laos",
+            "image1": "http://virtualtravel.tv/ZImages/Laos1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Laos2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Laos3.jpg",
+            "description": "One of the most clean and calm countries in southeast Asia for tourism is Laos.Because of an influx of westerners visiting this area of the world, the Laos government made it a priority to make the country appealing to outsiders.From the Talat Sao morning market to the That Luang buddhist monument,there is a lot to do and see here. Laos is tucked in between Thailand, Vietnam,and Cambodia, so the classic mountain and jungle ranges all meld together here. Those who are eco-conscience will be happy as the country does a good job of supporting tourism in a sustainable way.One thing Laos is known for is having the tallest treehouse in the entire world.There is also Luang Prabang and Phong Nha, two UNESCO World Heritage Sites in the country. If you want a full local experience, go for Boun Pi Mai,which is the Lao New Year. This is where you can engage in the nightlife and have some delicious food."
+        },
+        {
+            "country": "Malaysia",
+            "image1": "http://virtualtravel.tv/ZImages/Malaysia1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Malaysia2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Malaysia3.jpg",
+            "description": "With tons of coastline and being close to some of the top destinations in southeast Asia, Malaysia has something for everyone. Of all the countries in this area, this is probably the closest to a true melting pot. With influences from Europe, China, India, and its own identity, there is a lot to unpack within Malaysia’s borders.One of the top attractions of this country is the big opportunity for great scuba diving and other water endeavors. With a rich ocean habitat, there are tons to explore. Plus, there are four UNESCO World Heritage Sites in the country to explore.Of all the places to start, go with Kuala Lumpur. This modern city meds together natural beauty and advanced technology to offer a really cool perspective. In that city is Malaysia’s famous Chinese New Year celebration as food and beverages flow all day and night long. To really experience the melting pot sensation, this is where you should be. Once you branch out, take advantage of the natural wonders."
+        },
+        {
+            "country": "Myanmar",
+            "image1": "http://virtualtravel.tv/ZImages/Myanmar1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Myanmar2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Myanmar3.jpg",
+            "description": "Formerly known as Burma, Myanmar is a large southeast Asian country north of Thailand and east of India. Sat between a number of countries and bordering the ocean, there are a lot of influences and things to do in Myanmar. With plenty of busy markets, oceanfront, and temples, there is a lot that outsiders can do here.The tourism scene in Myanmar is very safe for the most part and is seeing a huge growth in the sector. Plus, this is one of the more affordable places to travel to because accommodations and food are all cheap.The most famous spot in the country is the Shwedagon Pagoda in Yangon.This is the top tourist attraction as the stunning gold structures are incredible to see in person. Plus, there are two UNESCO World Heritage Sites to explore.When in Myanmar, you have to try the Tea Leaf Salad and Shan-style rice as both are staples of the country."
+        },
+        {
+            "country": "Philippines",
+            "image1": "http://virtualtravel.tv/ZImages/Philippines1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Philippines2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Philippines3.jpg",
+            "description": "As one of the largest and most popular destinations in this part of Asia, the Philippines is a palace that every world traveler needs to experience. With some areas of super high density populations to remote islands, this country has it all. With just under 8000 islands in total, there is plenty of exploring to be had.Cities like Manila and Cebu are cultural epicenters that can provide super rich experiences to visitors. Places like Boracay and El Nido focus on beach life and the luxury that is southeast Asia.As you may have heard of, Adobo is the top Filipino dish in the world, so be sure to try it as authentic as it gets. Also make sure to grab a rum cocktail as they run the bar scene in the country.Overall, this is a place that has a ton to do and see. Plus, the Philippines has seven UNESCO World Heritage Sites to provide plenty of opportunities for exploration."
+        },
+        {
+            "country": "Singapore",
+            "image1": "http://virtualtravel.tv/ZImages/Singapore1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Singapore2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Singapore3.jpg",
+            "description": "As of late, the city-state of Singapore has boomed in the international tourism scene. With over three times the city’s population coming to visit every year, it has become the fifth-most visited city in the entire world.If you want to see the highlights, there is the Singapore Botanic Gardens which is a UNESCO World Heritage Site, Gardens by the Bay, plenty of coastline,and more!It is not very often that a city’s airport is actually a top attraction, but the Singapore airport is one that cannot be missed. With the largest indoor waterfall, over 200 shops and restaurants, and so much more, this is a true wonder.Another selling point of Singapore is the nightlife. Although there are many natural attractions to see, the nightlife in Singapore is incredibly vibrant. There are world-famous bars, night clubs, and concert venues all to take advantage of. So, Singapore is a spot that can bring a great mix of modern and natural attractions."
+        },
+        {
+            "country": "Thailand",
+            "image1": "http://virtualtravel.tv/ZImages/Thailand1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Thailand2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Thailand3.jpg",
+            "description": "With 10-15% of Thailand’s GDP coming from tourism, it is clear that this country has some great options for outside visitors. Bangkok is the biggest and best place to start when introducing yourself to Thailand. It is here that you can engage in the nightlife and experience the big city.Once you get that down, it is good to branch outward and enjoy some more natural features. From the jungle to the elephants to the great hiking opportunities, there is plenty to do. There are many UNESCO World Heritage Sites, so you can do a comprehensive tour of the company just through these sites alone.One unique way to really get to know the local culture is through the food.There are dishes like Massaman Curry, Kao Ka Moo, and Yam Nua that will give you a good sense of the local cuisine.Overall, Thailand has a little bit of everything that southeast Asia is known to have. If you had to pick just one place in the region, Thailand is a top choice for millions of people every year."
+        },
+        {
+            "country": "Timor-Leste",
+            "image1": "http://virtualtravel.tv/ZImages/Timor-Leste1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Timor-Leste2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Timor-Leste3.jpg"
+        },
+        {
+            "country": "Vietnam",
+            "image1": "http://virtualtravel.tv/ZImages/Vietnam1.jpg",
+            "image2": "http://virtualtravel.tv/ZImages/Vietnam2.jpg",
+            "image3": "http://virtualtravel.tv/ZImages/Vietnam3.jpg",
+            "description": "Especially to western tourists, Vietnam is not necessarily seen as a top destination. However, this is a beautiful country that has a ton to offer to visitors. With Thailand to the west and the South China Sea to the east, not many other countries in the area have as much coastline as Vietnam does.Although this country has been through a lot culturally and politically in the last century, the renaissance of tourism is working its magic.With pristine beaches, interesting rice terraces, and so much more, there is plenty to see on the countryside, beachside, and cities alike. If you have to start with one location, Hanoi is the best starting point. This brings great architecture, rich culture, and a hustle and bustle that frequents Asia.Vietnamese food is also a must-try when in the country. Dishes like Pho and Cha ca are staples of the culture in Vietnam. So, exploring the natural and man-made features is a great way to spend time in Vietnam."
+        }
+    ]
+}
